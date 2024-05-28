@@ -16,12 +16,12 @@ Though if anyone wants to edit the files, here are the originals.  Unfortunately
 The textures are set up to be batch converted by Aorta from PNG to DDS.  Normally in the batch conversion process merges the #A texture with the #A_glow texture to make a dds glow image used by the engine.
 In Aorta, just check "Attempt to find mask" and search for ^A_glow$
 
-#Contributers
-Special thanks to the following people for their contributions
-Freeverse - Original M2 sprites designed for XBLA version of Marathon 2
-Treellama - Providing higher quality Freeverse sprites sent directly from Freeverse themselves, including a few color tables that were not part of the official m2 plugin.
-Hippiman - Providing us with the HD quality replacemnts for many of the monster sprites.
-Thedoctor45 - The first to port over the Freeverse sprites over to Alephone, first impliment the HD sprites, made the purple trooper sprites, and made many bloom effects.
-General Tacticus - Created all new VacBob, Critters, and Jjaro scenery.
-Spurious Interrupt - Creator of SMG sprites used by the player sprites.
-Tfear7 - Origional creator of grey monster sprites though they have all been replaced it's still the thought that counts.
+# Contributers
+Special thanks to the following people for their contributions:
+ - Freeverse - Original M2 sprites designed for XBLA version of Marathon 2
+ - Treellama - Providing higher quality Freeverse sprites sent directly from Freeverse themselves, including a few color tables that were not part of the official m2 plugin.
+ - Hippiman - Providing us with the HD quality replacemnts for many of the monster sprites.
+ - Thedoctor45 - The first to port over the Freeverse sprites over to Alephone, first impliment the HD sprites, made the purple trooper sprites, and made many bloom effects.
+ - General Tacticus - Created all new VacBob, Critters, and Jjaro scenery.
+ - Spurious Interrupt - Creator of SMG sprites used by the player sprites.
+ - Tfear7 - Origional creator of grey monster sprites though they have all been replaced it's still the thought that counts.
