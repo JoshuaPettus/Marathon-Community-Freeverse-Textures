@@ -99,5 +99,5 @@
 <texture coll="3" bitmap="46" clut="1" normal_image="XBLA/ShapesHD/3/1/46.dds" normal_bloom_shift="0.4" opac_type="1"/>
 <texture coll="3" bitmap="47" clut="1" normal_image="XBLA/ShapesHD/3/1/47.dds" normal_bloom_shift="0.4" opac_type="1"/>
 <texture coll="3" bitmap="48" clut="1" normal_image="XBLA/ShapesHD/3/1/48.dds" normal_bloom_shift="0.4" opac_type="1"/>
-</opengl
+</opengl>
 </marathon>
