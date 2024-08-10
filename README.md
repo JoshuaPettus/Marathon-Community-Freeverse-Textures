@@ -14,7 +14,7 @@ Though if anyone wants to edit the files, here are the originals.
 
 # Convert to DDS
 The textures are set up to be batch converted by Aorta from PNG to DDS.  Normally in the batch conversion process merges the #A texture with the #A_glow texture to make a dds glow image used by the engine.
-In Aorta, just check "Attempt to find mask" and search for ^A_glow$
+In Aorta, just check "Attempt to find mask" and search for ^_glow$
 
 # Contributors
 Special thanks to the following people for their contributions:
