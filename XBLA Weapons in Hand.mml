@@ -54,5 +54,11 @@
 <texture coll="1" clut="-1" bitmap="51" normal_image="ShapesHD/1/0/51.dds" opac_type="1"/>
 <texture coll="1" clut="-1" bitmap="52" normal_image="ShapesHD/1/0/52.dds" opac_type="1"/>
 <texture coll="1" clut="-1" bitmap="53" normal_image="ShapesHD/1/0/53.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="54" normal_image="ShapesHD/1/0/54.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="55" normal_image="ShapesHD/1/0/55.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="56" normal_image="ShapesHD/1/0/56.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="57" normal_image="ShapesHD/1/0/57.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="58" normal_image="ShapesHD/1/0/58.dds" opac_type="1"/>
+<texture coll="1" clut="-1" bitmap="59" normal_image="ShapesHD/1/0/59.dds" opac_type="1"/>
 </opengl>
 </marathon>
