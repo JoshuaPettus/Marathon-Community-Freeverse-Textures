@@ -1,5 +1,5 @@
 # Marathon-Community-Freeverse-Textures
-These are the mml scripts and original textures (mostly PNG though some DDS) used by the Community Freeverse texture packages for Bungie's Marathon 2 and Marathon Infinity.
+These are the mml scripts and original textures in PNG format used by the Community Freeverse texture packages for Bungie's Marathon 2 and Marathon Infinity.
 The release packages are:
 
  - CFP Monsters - https://simplici7y.com/items/community-freeverse-plugin-monsters/
@@ -8,13 +8,16 @@ The release packages are:
  - CFP Weapons M2 - http://simplici7y.com/items/community-freeverse-plugin-weapons-m2
  - CFP Walls M2 - http://simplici7y.com/items/community-freeverse-plugin-walls-m2
 
-# Notes
-In order to be more efficient while in use, the release packages are batch converted by Aorta from PNG to DDS. As such the mml scripts are set to look for the DDS version of the textures.
-Though if anyone wants to edit the files, here are the originals. 
-
-# Convert to DDS
-The textures are set up to be batch converted by Aorta from PNG to DDS.  Normally in the batch conversion process merges the #A texture with the #A_glow texture to make a dds glow image used by the engine.
-In Aorta, just check "Attempt to find mask" and search for ^_glow$
+# Generate glow textures
+For ease of editing, glowmaps are separated from the texture, but the scripts call upon a combined glowimage derived from the glowmap and main image.
+This can be done in Treellama's Aorta tool
+In Aorta's batch mode:
+    1. Point to the source folder to the XBLA folder 
+    2. Check "Traverse (and recreate) subfolders"
+    3. Make sure to check "Attempt to find mask" and search for ^_glow$
+    4. Set the output to an XBLA folder you created and will use for production
+    5. Set the output to png
+    6. Start the batch convert
 
 # Contributors
 Special thanks to the following people for their contributions:
@@ -25,3 +28,7 @@ Special thanks to the following people for their contributions:
  - General Tacticus - Created all new VacBob, Critters, and Jjaro scenery.
  - Spurious Interrupt - Creator of SMG sprites used by the player sprites.
  - Tfear7 - Original creator of grey monster sprites, while these were replaced with the new hd sprites, I'm still grateful for his assistance.
+ 
+# Goron's Infinity Textures
+ For completion and preservation's sake, also included in the "Goron Infinity Textures" folder are the HD Marathon Infinity wall and landscape textures created by community member Goran Svensson
+ with further edits and bumpmaps by community members kaosof and The Man.  These are the recommended textures to use with the CFP assets for Marathon Infinity.

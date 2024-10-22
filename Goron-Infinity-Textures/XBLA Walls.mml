@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marathon>
+<opengl>
+
+<!-- water -->
+<texture coll="17" bitmap="0" normal_image="XBLA/ShapesHD/17/0/0.png" glow_image="XBLA/ShapesHD/17/0/0a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.06" opac_type="1"/>
+<texture coll="17" bitmap="1" normal_image="XBLA/ShapesHD/17/0/1.png" glow_image="XBLA/ShapesHD/17/0/1a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.8" opac_type="1"/>
+<texture coll="17" bitmap="2" normal_image="XBLA/ShapesHD/17/0/2.png" glow_image="XBLA/ShapesHD/17/0/2a.png"  glow_bloom_shift="0.5" glow_bloom_scale="0.1" opac_type="1"/>
+<texture coll="17" bitmap="3" normal_image="XBLA/ShapesHD/17/0/3.png" opac_type="1"/>
+<texture coll="17" bitmap="4" normal_image="XBLA/ShapesHD/17/0/4.png" glow_image="XBLA/ShapesHD/17/0/4a.png"  minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.7" opac_type="1"/>
+<texture coll="17" bitmap="5" normal_image="XBLA/ShapesHD/17/0/5.png" opac_type="1"/>
+<texture coll="17" bitmap="6" normal_image="XBLA/ShapesHD/17/0/6.png" opac_type="1"/>
+<texture coll="17" bitmap="7" normal_image="XBLA/ShapesHD/17/0/7.png" opac_type="1"/>
+<texture coll="17" bitmap="8" normal_image="XBLA/ShapesHD/17/0/8.png" glow_image="XBLA/ShapesHD/17/0/8a.png"  glow_bloom_shift="0.9" glow_bloom_scale="0.2" minimum_glow_intensity="0.8" type="0"/>
+<texture coll="17" bitmap="9" normal_image="XBLA/ShapesHD/17/0/9.png" glow_image="XBLA/ShapesHD/17/0/9a.png"  glow_bloom_shift="0.15" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="17" bitmap="10" normal_image="XBLA/ShapesHD/17/0/10.png" glow_image="XBLA/ShapesHD/17/0/10a.png" glow_bloom_scale="0.5" type="0"/>
+<texture coll="17" bitmap="11" normal_image="XBLA/ShapesHD/17/0/11.png" type="0"/>
+<texture coll="17" bitmap="12" normal_image="XBLA/ShapesHD/17/0/12.png" opac_type="1"/>
+<texture coll="17" bitmap="13" normal_image="XBLA/ShapesHD/17/0/13.png" opac_type="1"/>
+<texture coll="17" bitmap="14" normal_image="XBLA/ShapesHD/17/0/14.png" type="0"/>
+<texture coll="17" bitmap="15" normal_image="XBLA/ShapesHD/17/0/15.png" glow_image="XBLA/ShapesHD/17/0/15a.png" glow_bloom_shift="0.15" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="17" bitmap="16" normal_image="XBLA/ShapesHD/17/0/16.png" opac_type="1"/>
+<texture coll="17" bitmap="17" normal_image="XBLA/ShapesHD/17/0/17.png" type="0"/>
+<texture coll="17" bitmap="18" normal_image="XBLA/ShapesHD/17/0/18.png" opac_type="1"/>
+<texture coll="17" bitmap="19" normal_image="XBLA/ShapesHD/17/0/19.png" opac_type="3" opac_scale="0.4" opac_shift="0.4"/>
+<texture coll="17" bitmap="20" normal_image="XBLA/ShapesHD/17/0/20.png" opac_type="1"/>
+<texture coll="17" bitmap="21" normal_image="XBLA/ShapesHD/17/0/21.png" type="0"/>
+<texture coll="17" bitmap="22" normal_image="XBLA/ShapesHD/17/0/22.png" opac_type="1"/>
+<texture coll="17" bitmap="23" normal_image="XBLA/ShapesHD/17/0/23.png" opac_type="1"/>
+<texture coll="17" bitmap="24" normal_image="XBLA/ShapesHD/17/0/24.png" type="0"/>
+<texture coll="17" bitmap="25" normal_image="XBLA/ShapesHD/17/0/25.png" glow_image="XBLA/ShapesHD/17/0/25a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="17" bitmap="26" normal_image="XBLA/ShapesHD/17/0/26.png" opac_type="1"/>
+<texture coll="17" bitmap="27" normal_image="XBLA/ShapesHD/17/0/27.png" opac_type="1"/>
+<texture coll="17" bitmap="28" normal_image="XBLA/ShapesHD/17/0/28.png" type="0"/>
+<texture coll="17" bitmap="29" normal_image="XBLA/ShapesHD/17/0/29.png" type="0"/>
+
+<!-- lava -->
+<texture coll="18" bitmap="0" normal_image="XBLA/ShapesHD/18/0/0.png" glow_image="XBLA/ShapesHD/18/0/0a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.06" opac_type="1"/>
+<texture coll="18" bitmap="1" normal_image="XBLA/ShapesHD/18/0/1.png" glow_image="XBLA/ShapesHD/18/0/1a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.06" opac_type="1"/>
+<texture coll="18" bitmap="2" normal_image="XBLA/ShapesHD/18/0/2.png" glow_image="XBLA/ShapesHD/18/0/2a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.1" opac_type="1"/>
+<texture coll="18" bitmap="3" normal_image="XBLA/ShapesHD/18/0/3.png" opac_type="1"/>
+<texture coll="18" bitmap="4" normal_image="XBLA/ShapesHD/18/0/4.png" glow_image="XBLA/ShapesHD/18/0/4a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.8" opac_type="1"/>
+<texture coll="18" bitmap="5" normal_image="XBLA/ShapesHD/18/0/5.png" opac_type="1"/>
+<texture coll="18" bitmap="6" normal_image="XBLA/ShapesHD/18/0/6.png" opac_type="1"/>
+<texture coll="18" bitmap="7" normal_image="XBLA/ShapesHD/18/0/7.png" opac_type="1"/>
+<texture coll="18" bitmap="8" normal_image="XBLA/ShapesHD/18/0/8.png" opac_type="1"/>
+<texture coll="18" bitmap="9" normal_image="XBLA/ShapesHD/18/0/9.png" opac_type="1"/>
+<texture coll="18" bitmap="10" normal_image="XBLA/ShapesHD/18/0/10.png" glow_image="XBLA/ShapesHD/18/0/10a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="18" bitmap="11" normal_image="XBLA/ShapesHD/18/0/11.png" opac_type="1"/>
+<texture coll="18" bitmap="12" normal_image="XBLA/ShapesHD/18/0/12.png" glow_image="XBLA/ShapesHD/18/0/12a.png" glow_bloom_shift="1.0" glow_bloom_scale="0.8" minimum_glow_intensity="1.0" opac_type="1"/>
+<texture coll="18" bitmap="13" normal_image="XBLA/ShapesHD/18/0/13.png" opac_type="1"/>
+<texture coll="18" bitmap="14" normal_image="XBLA/ShapesHD/18/0/14.png" opac_type="1"/>
+<texture coll="18" bitmap="15" normal_image="XBLA/ShapesHD/18/0/15.png" opac_type="1"/>
+<texture coll="18" bitmap="16" normal_image="XBLA/ShapesHD/18/0/16.png" opac_type="1"/>
+<texture coll="18" bitmap="17" normal_image="XBLA/ShapesHD/18/0/17.png" opac_type="1"/>
+<texture coll="18" bitmap="18" normal_image="XBLA/ShapesHD/18/0/18.png" opac_type="1"/>
+<texture coll="18" bitmap="19" normal_image="XBLA/ShapesHD/18/0/19.png" opac_type="1"/>
+<texture coll="18" bitmap="20" normal_image="XBLA/ShapesHD/18/0/20.png" opac_type="1"/>
+<texture coll="18" bitmap="21" normal_image="XBLA/ShapesHD/18/0/21.png" opac_type="1"/>
+<texture coll="18" bitmap="22" normal_image="XBLA/ShapesHD/18/0/22.png" opac_type="1"/>
+<texture coll="18" bitmap="23" normal_image="XBLA/ShapesHD/18/0/23.png" opac_type="1"/>
+<texture coll="18" bitmap="24" normal_image="XBLA/ShapesHD/18/0/24.png" opac_type="1"/>
+<texture coll="18" bitmap="25" normal_image="XBLA/ShapesHD/18/0/25.png" opac_type="1"/>
+<texture coll="18" bitmap="26" normal_image="XBLA/ShapesHD/18/0/26.png" opac_type="1"/>
+<texture coll="18" bitmap="27" normal_image="XBLA/ShapesHD/18/0/27.png" opac_type="1"/>
+<texture coll="18" bitmap="28" normal_image="XBLA/ShapesHD/18/0/28.png" opac_type="1"/>
+<texture coll="18" bitmap="29" normal_image="XBLA/ShapesHD/18/0/29.png" opac_type="1"/>
+
+<!-- sewage -->
+<texture coll="19" bitmap="0" normal_image="XBLA/ShapesHD/19/0/0.png" glow_image="XBLA/ShapesHD/19/0/0a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.06" opac_type="1"/>
+<texture coll="19" bitmap="1" normal_image="XBLA/ShapesHD/19/0/1.png" glow_image="XBLA/ShapesHD/19/0/1a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.06" opac_type="1"/>
+<texture coll="19" bitmap="2" normal_image="XBLA/ShapesHD/19/0/2.png" glow_image="XBLA/ShapesHD/19/0/2a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.1" opac_type="1"/>
+<texture coll="19" bitmap="3" normal_image="XBLA/ShapesHD/19/0/3.png" opac_type="1"/>
+<texture coll="19" bitmap="4" normal_image="XBLA/ShapesHD/19/0/4.png" glow_image="XBLA/ShapesHD/19/0/4a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.8" opac_type="1"/>
+<texture coll="19" bitmap="5" normal_image="XBLA/ShapesHD/19/0/5.png" opac_type="1"/>
+<texture coll="19" bitmap="6" normal_image="XBLA/ShapesHD/19/0/6.png" opac_type="1"/>
+<texture coll="19" bitmap="7" normal_image="XBLA/ShapesHD/19/0/7.png" opac_type="1"/>
+<texture coll="19" bitmap="8" normal_image="XBLA/ShapesHD/19/0/8.png" opac_type="1"/>
+<texture coll="19" bitmap="9" normal_image="XBLA/ShapesHD/19/0/9.png" opac_type="1"/>
+<texture coll="19" bitmap="10" normal_image="XBLA/ShapesHD/19/0/10.png" opac_type="1"/>
+<texture coll="19" bitmap="11" normal_image="XBLA/ShapesHD/19/0/11.png" opac_type="1"/>
+<texture coll="19" bitmap="12" normal_image="XBLA/ShapesHD/19/0/12.png" opac_type="1"/>
+<texture coll="19" bitmap="13" normal_image="XBLA/ShapesHD/19/0/13.png" opac_type="3" opac_scale="0.8" opac_shift="0.7"/>
+<texture coll="19" bitmap="14" normal_image="XBLA/ShapesHD/19/0/14.png" opac_type="1"/>
+<texture coll="19" bitmap="15" normal_image="XBLA/ShapesHD/19/0/15.png" opac_type="1"/>
+<texture coll="19" bitmap="16" normal_image="XBLA/ShapesHD/19/0/16.png" opac_type="1"/>
+<texture coll="19" bitmap="17" normal_image="XBLA/ShapesHD/19/0/17.png" opac_type="1"/>
+<texture coll="19" bitmap="18" normal_image="XBLA/ShapesHD/19/0/18.png" opac_type="1"/>
+<texture coll="19" bitmap="19" normal_image="XBLA/ShapesHD/19/0/19.png" opac_type="1"/>
+<texture coll="19" bitmap="20" normal_image="XBLA/ShapesHD/19/0/20.png" glow_image="XBLA/ShapesHD/19/0/20a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="19" bitmap="21" normal_image="XBLA/ShapesHD/19/0/21.png" opac_type="1"/>
+<texture coll="19" bitmap="22" normal_image="XBLA/ShapesHD/19/0/22.png" glow_image="XBLA/ShapesHD/19/0/22a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="19" bitmap="23" normal_image="XBLA/ShapesHD/19/0/23.png" opac_type="1"/>
+<texture coll="19" bitmap="24" normal_image="XBLA/ShapesHD/19/0/24.png" opac_type="1"/>
+<texture coll="19" bitmap="25" normal_image="XBLA/ShapesHD/19/0/25.png" opac_type="1"/>
+<texture coll="19" bitmap="26" normal_image="XBLA/ShapesHD/19/0/26.png" opac_type="1"/>
+<texture coll="19" bitmap="27" normal_image="XBLA/ShapesHD/19/0/27.png" opac_type="1"/>
+<texture coll="19" bitmap="28" normal_image="XBLA/ShapesHD/19/0/28.png" opac_type="1"/>
+<texture coll="19" bitmap="29" normal_image="XBLA/ShapesHD/19/0/29.png" opac_type="1"/>
+
+<!-- pfhor -->
+<texture coll="21" bitmap="0" normal_image="XBLA/ShapesHD/21/0/0.png" glow_image="XBLA/ShapesHD/21/0/0a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="21" bitmap="1" normal_image="XBLA/ShapesHD/21/0/1.png" opac_type="1"/>
+<texture coll="21" bitmap="2" normal_image="XBLA/ShapesHD/21/0/2.png" glow_image="XBLA/ShapesHD/21/0/2a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.06" opac_type="1"/>
+<texture coll="21" bitmap="3" normal_image="XBLA/ShapesHD/21/0/3.png" glow_image="XBLA/ShapesHD/21/0/3a.png" glow_bloom_shift="0.5" glow_bloom_scale="0.1" opac_type="1"/>
+<texture coll="21" bitmap="4" normal_image="XBLA/ShapesHD/21/0/4.png" glow_image="XBLA/ShapesHD/21/0/4a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.8" opac_type="1"/>
+<texture coll="21" bitmap="5" normal_image="XBLA ShapesHD/21/0/5.png" glow_image="XBLA/ShapesHD/21/0/5a.png" low_bloom_shift="1.0" glow_bloom_scale="0.8" minimum_glow_intensity="1.0" opac_type="1"/>
+<texture coll="21" bitmap="6" normal_image="XBLA/ShapesHD/21/0/6.png" opac_type="1"/>
+<texture coll="21" bitmap="7" normal_image="XBLA/ShapesHD/21/0/7.png" opac_type="1"/>
+<texture coll="21" bitmap="8" normal_image="XBLA/ShapesHD/21/0/8.png" opac_type="1"/>
+<texture coll="21" bitmap="9" normal_image="XBLA/ShapesHD/21/0/9.png" opac_type="1"/>
+<texture coll="21" bitmap="10" normal_image="XBLA/ShapesHD/21/0/10.png" glow_image="XBLA/ShapesHD/21/0/10a.png" minimum_glow_intensity="0" glow_bloom_shift="0.07" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="11" normal_image="XBLA/ShapesHD/21/0/11.png" glow_image="XBLA/ShapesHD/21/0/11a.png" glow_bloom_shift="0.3" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="12" normal_image="XBLA/ShapesHD/21/0/12.png" glow_image="XBLA/ShapesHD/21/0/12a.png" minimum_glow_intensity="0" glow_bloom_shift="-0.05" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="13" normal_image="XBLA/ShapesHD/21/0/13.png" opac_type="1"/>
+<texture coll="21" bitmap="14" normal_image="XBLA/ShapesHD/21/0/14.png" opac_type="1"/>
+<texture coll="21" bitmap="15" normal_image="XBLA/ShapesHD/21/0/15.png" opac_type="1"/>
+<texture coll="21" bitmap="16" normal_image="XBLA/ShapesHD/21/0/16.png" opac_type="1"/>
+<texture coll="21" bitmap="17" normal_image="XBLA/ShapesHD/21/0/17.png" opac_type="1"/>
+<texture coll="21" bitmap="18" normal_image="XBLA/ShapesHD/21/0/18.png" opac_type="1"/>
+<texture coll="21" bitmap="19" normal_image="XBLA/ShapesHD/21/0/19.png" glow_image="XBLA/ShapesHD/21/0/19a.png" glow_bloom_shift="0.16" glow_bloom_scale="0.1" opac_type="1"/>
+<texture coll="21" bitmap="20" normal_image="XBLA/ShapesHD/21/0/20.png" opac_type="1"/>
+<texture coll="21" bitmap="21" normal_image="XBLA/ShapesHD/21/0/21.png" opac_type="1"/>
+<texture coll="21" bitmap="22" normal_image="XBLA/ShapesHD/21/0/22.png" opac_type="1"/>
+<texture coll="21" bitmap="23" normal_image="XBLA/ShapesHD/21/0/23.png" glow_image="XBLA/ShapesHD/21/0/23a.png" glow_bloom_shift="0.3" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="24" normal_image="XBLA/ShapesHD/21/0/24.png" opac_type="1"/>
+<texture coll="21" bitmap="25" normal_image="XBLA/ShapesHD/21/0/25.png" glow_image="XBLA/ShapesHD/21/0/25a.png" glow_bloom_shift="0.16" glow_bloom_scale="0.1" opac_type="1"/>
+<texture coll="21" bitmap="26" normal_image="XBLA/ShapesHD/21/0/26.png" glow_image="XBLA/ShapesHD/21/0/26a.png" glow_bloom_shift="0.3" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="27" normal_image="XBLA/ShapesHD/21/0/27.png" glow_image="XBLA/ShapesHD/21/0/27a.png" glow_bloom_shift="0.3" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="28" normal_image="XBLA/ShapesHD/21/0/28.png" glow_image="XBLA/ShapesHD/21/0/28a.png" glow_bloom_shift="0.3" glow_bloom_scale="0.5" opac_type="1"/>
+<texture coll="21" bitmap="29" normal_image="XBLA/ShapesHD/21/0/29.png" glow_image="XBLA/ShapesHD/21/0/29a.png" glow_bloom_shift="0.16" glow_bloom_scale="0.1" opac_type="1"/>
+
+</opengl>
+</marathon>
