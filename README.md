@@ -13,7 +13,7 @@ For ease of editing, glowmaps are separated from the texture, but the scripts ca
 These can be made using Treellama's Aorta tool.
 
 In Aorta's batch mode:
- 1. Point to the source folder to the XBLA folder
+ 1. Point the source folder to the XBLA folder
  2. Check "Traverse (and recreate) subfolders"
  3. Make sure to check "Attempt to find mask" and search for ^_glow$
  4. Set the output to an XBLA folder you created and will use for production
