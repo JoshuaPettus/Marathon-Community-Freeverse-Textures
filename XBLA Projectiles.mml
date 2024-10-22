@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marathon>
 <opengl>
-<texture coll="4" bitmap="0" clut="-1" normal_image="ShapesHD/4/0/0.dds" opac_type="1"/>
-<texture coll="4" bitmap="1" clut="-1" normal_image="ShapesHD/4/0/1.dds" opac_type="1"/>
-<texture coll="4" bitmap="2" clut="-1" normal_image="ShapesHD/4/0/2.dds" opac_type="1"/>
-<texture coll="4" bitmap="3" clut="-1" normal_image="ShapesHD/4/0/3.dds" opac_type="1"/>
-<texture coll="4" bitmap="4" clut="-1" normal_image="ShapesHD/4/0/4.dds" opac_type="1"/>
-<texture coll="4" bitmap="5" clut="-1" normal_image="ShapesHD/4/0/5.dds" normal_bloom_shift="0.3" opac_type="1"/>
-<texture coll="4" bitmap="6" clut="-1" normal_image="ShapesHD/4/0/6.dds" opac_type="1"/>
-<texture coll="4" bitmap="7" clut="-1" normal_image="ShapesHD/4/0/7.dds" glow_image="ShapesHD/4/0/7A.dds" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
-<texture coll="4" bitmap="8" clut="-1" normal_image="ShapesHD/4/0/8.dds" glow_image="ShapesHD/4/0/8A.dds" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
-<texture coll="4" bitmap="9" clut="-1" normal_image="ShapesHD/4/0/9.dds" glow_image="ShapesHD/4/0/9A.dds" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
-<texture coll="4" bitmap="10" clut="-1" normal_image="ShapesHD/4/0/10.dds" glow_image="ShapesHD/4/0/10A.dds" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
-<texture coll="4" bitmap="14" clut="-1" normal_image="ShapesHD/4/0/14.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="4" bitmap="15" clut="-1" normal_image="ShapesHD/4/0/15.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="16" clut="-1" normal_image="ShapesHD/4/0/16.dds" normal_bloom_shift="0.3" opac_type="1"/>
-<texture coll="4" bitmap="17" clut="-1" normal_image="ShapesHD/4/0/17.dds" normal_bloom_shift="0.2" opac_type="1"/>
-<texture coll="4" bitmap="18" clut="-1" normal_image="ShapesHD/4/0/18.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="19" clut="-1" normal_image="ShapesHD/4/0/19.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="20" clut="-1" normal_image="ShapesHD/4/0/20.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="21" clut="-1" normal_image="ShapesHD/4/0/21.dds" opac_type="1"/>
-<texture coll="4" bitmap="22" clut="-1" normal_image="ShapesHD/4/0/22.dds" opac_type="1"/>
-<texture coll="4" bitmap="23" clut="-1" normal_image="ShapesHD/4/0/23.dds" opac_type="1"/>
-<texture coll="4" bitmap="24" clut="-1" normal_image="ShapesHD/4/0/24.dds" opac_type="1"/>
-<texture coll="4" bitmap="25" clut="-1" normal_image="ShapesHD/4/0/25.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="26" clut="-1" normal_image="ShapesHD/4/0/26.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="27" clut="-1" normal_image="ShapesHD/4/0/27.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="28" clut="-1" normal_image="ShapesHD/4/0/28.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="29" clut="-1" normal_image="ShapesHD/4/0/29.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="30" clut="-1" normal_image="ShapesHD/4/0/30.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="31" clut="-1" normal_image="ShapesHD/4/0/31.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="32" clut="-1" normal_image="ShapesHD/4/0/32.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="33" clut="-1" normal_image="ShapesHD/4/0/33.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="34" clut="-1" normal_image="ShapesHD/4/0/34.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="35" clut="-1" normal_image="ShapesHD/4/0/35.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="36" clut="-1" normal_image="ShapesHD/4/0/36.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="37" clut="-1" normal_image="ShapesHD/4/0/37.dds" normal_bloom_shift="0.7" opac_type="1"/>
-<texture coll="4" bitmap="38" clut="-1" normal_image="ShapesHD/4/0/38.dds" opac_type="1"/>
-<texture coll="4" bitmap="39" clut="-1" normal_image="ShapesHD/4/0/39.dds" opac_type="1"/>
-<texture coll="4" bitmap="40" clut="-1" normal_image="ShapesHD/4/0/40.dds" opac_type="1"/>
-<texture coll="4" bitmap="41" clut="-1" normal_image="ShapesHD/4/0/41.dds" opac_type="1"/>
-<texture coll="4" bitmap="42" clut="-1" normal_image="ShapesHD/4/0/42.dds" opac_type="1"/>
-<texture coll="4" bitmap="43" clut="-1" normal_image="ShapesHD/4/0/43.dds" opac_type="1"/>
-<texture coll="4" bitmap="44" clut="-1" normal_image="ShapesHD/4/0/44.dds" opac_type="1"/>
-<texture coll="4" bitmap="45" clut="-1" normal_image="ShapesHD/4/0/45.dds" opac_type="1"/>
-<texture coll="4" bitmap="46" clut="-1" normal_image="ShapesHD/4/0/46.dds" glow_image="ShapesHD/4/0/46A.dds" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
-<texture coll="4" bitmap="47" clut="-1" normal_image="ShapesHD/4/0/47.dds" glow_image="ShapesHD/4/0/47A.dds" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
-<texture coll="4" bitmap="48" clut="-1" normal_image="ShapesHD/4/0/48.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="49" clut="-1" normal_image="ShapesHD/4/0/49.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="50" clut="-1" normal_image="ShapesHD/4/0/50.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="51" clut="-1" normal_image="ShapesHD/4/0/51.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="56" clut="-1" normal_image="ShapesHD/4/0/56.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="57" clut="-1" normal_image="ShapesHD/4/0/57.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="58" clut="-1" normal_image="ShapesHD/4/0/58.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="59" clut="-1" normal_image="ShapesHD/4/0/59.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="60" clut="-1" normal_image="ShapesHD/4/0/60.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="61" clut="-1" normal_image="ShapesHD/4/0/61.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="62" clut="-1" normal_image="ShapesHD/4/0/62.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="63" clut="-1" normal_image="ShapesHD/4/0/63.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="64" clut="-1" normal_image="ShapesHD/4/0/64.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="65" clut="-1" normal_image="ShapesHD/4/0/65.dds" normal_bloom_shift="0.3" opac_type="1"/>
-<texture coll="4" bitmap="66" clut="-1" normal_image="ShapesHD/4/0/66.dds" normal_bloom_shift="0.2" opac_type="1"/>
-<texture coll="4" bitmap="67" clut="-1" normal_image="ShapesHD/4/0/67.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="4" bitmap="68" clut="-1" normal_image="ShapesHD/4/0/68.dds" normal_bloom_shift="0.3" opac_type="1"/>
-<texture coll="4" bitmap="69" clut="-1" normal_image="ShapesHD/4/0/69.dds" normal_bloom_shift="0.3" opac_type="1"/>
-<texture coll="4" bitmap="70" clut="-1" normal_image="ShapesHD/4/0/70.dds" normal_bloom_shift="0.3" opac_type="1"/>
-<texture coll="4" bitmap="71" clut="-1" normal_image="ShapesHD/4/0/71.dds" normal_bloom_shift="0.2" opac_type="1"/>
-<texture coll="4" bitmap="72" clut="-1" normal_image="ShapesHD/4/0/72.dds" normal_bloom_shift="0.2" opac_type="1"/>
-<texture coll="4" bitmap="73" clut="-1" normal_image="ShapesHD/4/0/73.dds" normal_bloom_shift="0.1" opac_type="1"/>
-<texture coll="4" bitmap="74" clut="-1" normal_image="ShapesHD/4/0/74.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="75" clut="-1" normal_image="ShapesHD/4/0/75.dds" normal_bloom_shift="0.4" opac_type="1"/>
-<texture coll="4" bitmap="76" clut="-1" normal_image="ShapesHD/4/0/76.dds" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="0" clut="-1" normal_image="ShapesHD/4/0/0.png" opac_type="1"/>
+<texture coll="4" bitmap="1" clut="-1" normal_image="ShapesHD/4/0/1.png" opac_type="1"/>
+<texture coll="4" bitmap="2" clut="-1" normal_image="ShapesHD/4/0/2.png" opac_type="1"/>
+<texture coll="4" bitmap="3" clut="-1" normal_image="ShapesHD/4/0/3.png" opac_type="1"/>
+<texture coll="4" bitmap="4" clut="-1" normal_image="ShapesHD/4/0/4.png" opac_type="1"/>
+<texture coll="4" bitmap="5" clut="-1" normal_image="ShapesHD/4/0/5.png" normal_bloom_shift="0.3" opac_type="1"/>
+<texture coll="4" bitmap="6" clut="-1" normal_image="ShapesHD/4/0/6.png" opac_type="1"/>
+<texture coll="4" bitmap="7" clut="-1" normal_image="ShapesHD/4/0/7.png" glow_image="ShapesHD/4/0/7A.png" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
+<texture coll="4" bitmap="8" clut="-1" normal_image="ShapesHD/4/0/8.png" glow_image="ShapesHD/4/0/8A.png" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
+<texture coll="4" bitmap="9" clut="-1" normal_image="ShapesHD/4/0/9.png" glow_image="ShapesHD/4/0/9A.png" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
+<texture coll="4" bitmap="10" clut="-1" normal_image="ShapesHD/4/0/10.png" glow_image="ShapesHD/4/0/10A.png" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
+<texture coll="4" bitmap="14" clut="-1" normal_image="ShapesHD/4/0/14.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="4" bitmap="15" clut="-1" normal_image="ShapesHD/4/0/15.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="16" clut="-1" normal_image="ShapesHD/4/0/16.png" normal_bloom_shift="0.3" opac_type="1"/>
+<texture coll="4" bitmap="17" clut="-1" normal_image="ShapesHD/4/0/17.png" normal_bloom_shift="0.2" opac_type="1"/>
+<texture coll="4" bitmap="18" clut="-1" normal_image="ShapesHD/4/0/18.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="19" clut="-1" normal_image="ShapesHD/4/0/19.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="20" clut="-1" normal_image="ShapesHD/4/0/20.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="21" clut="-1" normal_image="ShapesHD/4/0/21.png" opac_type="1"/>
+<texture coll="4" bitmap="22" clut="-1" normal_image="ShapesHD/4/0/22.png" opac_type="1"/>
+<texture coll="4" bitmap="23" clut="-1" normal_image="ShapesHD/4/0/23.png" opac_type="1"/>
+<texture coll="4" bitmap="24" clut="-1" normal_image="ShapesHD/4/0/24.png" opac_type="1"/>
+<texture coll="4" bitmap="25" clut="-1" normal_image="ShapesHD/4/0/25.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="26" clut="-1" normal_image="ShapesHD/4/0/26.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="27" clut="-1" normal_image="ShapesHD/4/0/27.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="28" clut="-1" normal_image="ShapesHD/4/0/28.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="29" clut="-1" normal_image="ShapesHD/4/0/29.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="30" clut="-1" normal_image="ShapesHD/4/0/30.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="31" clut="-1" normal_image="ShapesHD/4/0/31.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="32" clut="-1" normal_image="ShapesHD/4/0/32.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="33" clut="-1" normal_image="ShapesHD/4/0/33.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="34" clut="-1" normal_image="ShapesHD/4/0/34.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="35" clut="-1" normal_image="ShapesHD/4/0/35.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="36" clut="-1" normal_image="ShapesHD/4/0/36.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="37" clut="-1" normal_image="ShapesHD/4/0/37.png" normal_bloom_shift="0.7" opac_type="1"/>
+<texture coll="4" bitmap="38" clut="-1" normal_image="ShapesHD/4/0/38.png" opac_type="1"/>
+<texture coll="4" bitmap="39" clut="-1" normal_image="ShapesHD/4/0/39.png" opac_type="1"/>
+<texture coll="4" bitmap="40" clut="-1" normal_image="ShapesHD/4/0/40.png" opac_type="1"/>
+<texture coll="4" bitmap="41" clut="-1" normal_image="ShapesHD/4/0/41.png" opac_type="1"/>
+<texture coll="4" bitmap="42" clut="-1" normal_image="ShapesHD/4/0/42.png" opac_type="1"/>
+<texture coll="4" bitmap="43" clut="-1" normal_image="ShapesHD/4/0/43.png" opac_type="1"/>
+<texture coll="4" bitmap="44" clut="-1" normal_image="ShapesHD/4/0/44.png" opac_type="1"/>
+<texture coll="4" bitmap="45" clut="-1" normal_image="ShapesHD/4/0/45.png" opac_type="1"/>
+<texture coll="4" bitmap="46" clut="-1" normal_image="ShapesHD/4/0/46.png" glow_image="ShapesHD/4/0/46A.png" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
+<texture coll="4" bitmap="47" clut="-1" normal_image="ShapesHD/4/0/47.png" glow_image="ShapesHD/4/0/47A.png" glow_bloom_shift="0.7" glow_bloom_scale="0.7" minimum_glow_intensity="0" opac_type="1"/>
+<texture coll="4" bitmap="48" clut="-1" normal_image="ShapesHD/4/0/48.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="49" clut="-1" normal_image="ShapesHD/4/0/49.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="50" clut="-1" normal_image="ShapesHD/4/0/50.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="51" clut="-1" normal_image="ShapesHD/4/0/51.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="56" clut="-1" normal_image="ShapesHD/4/0/56.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="57" clut="-1" normal_image="ShapesHD/4/0/57.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="58" clut="-1" normal_image="ShapesHD/4/0/58.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="59" clut="-1" normal_image="ShapesHD/4/0/59.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="60" clut="-1" normal_image="ShapesHD/4/0/60.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="61" clut="-1" normal_image="ShapesHD/4/0/61.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="62" clut="-1" normal_image="ShapesHD/4/0/62.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="63" clut="-1" normal_image="ShapesHD/4/0/63.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="64" clut="-1" normal_image="ShapesHD/4/0/64.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="65" clut="-1" normal_image="ShapesHD/4/0/65.png" normal_bloom_shift="0.3" opac_type="1"/>
+<texture coll="4" bitmap="66" clut="-1" normal_image="ShapesHD/4/0/66.png" normal_bloom_shift="0.2" opac_type="1"/>
+<texture coll="4" bitmap="67" clut="-1" normal_image="ShapesHD/4/0/67.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="4" bitmap="68" clut="-1" normal_image="ShapesHD/4/0/68.png" normal_bloom_shift="0.3" opac_type="1"/>
+<texture coll="4" bitmap="69" clut="-1" normal_image="ShapesHD/4/0/69.png" normal_bloom_shift="0.3" opac_type="1"/>
+<texture coll="4" bitmap="70" clut="-1" normal_image="ShapesHD/4/0/70.png" normal_bloom_shift="0.3" opac_type="1"/>
+<texture coll="4" bitmap="71" clut="-1" normal_image="ShapesHD/4/0/71.png" normal_bloom_shift="0.2" opac_type="1"/>
+<texture coll="4" bitmap="72" clut="-1" normal_image="ShapesHD/4/0/72.png" normal_bloom_shift="0.2" opac_type="1"/>
+<texture coll="4" bitmap="73" clut="-1" normal_image="ShapesHD/4/0/73.png" normal_bloom_shift="0.1" opac_type="1"/>
+<texture coll="4" bitmap="74" clut="-1" normal_image="ShapesHD/4/0/74.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="75" clut="-1" normal_image="ShapesHD/4/0/75.png" normal_bloom_shift="0.4" opac_type="1"/>
+<texture coll="4" bitmap="76" clut="-1" normal_image="ShapesHD/4/0/76.png" normal_bloom_shift="0.4" opac_type="1"/>
 </opengl>
 </marathon>

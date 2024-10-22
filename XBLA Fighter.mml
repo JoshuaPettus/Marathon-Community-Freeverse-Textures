@@ -1,359 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marathon>
 <opengl>
-<texture coll="9" bitmap="0" clut="-1" normal_image="XBLA/ShapesHD/9/0/0.dds" glow_image="XBLA/ShapesHD/9/0/0A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="1" clut="-1" normal_image="XBLA/ShapesHD/9/0/1.dds" glow_image="XBLA/ShapesHD/9/0/1A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="2" clut="-1" normal_image="XBLA/ShapesHD/9/0/2.dds" glow_image="XBLA/ShapesHD/9/0/2A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="3" clut="-1" normal_image="XBLA/ShapesHD/9/0/3.dds" glow_image="XBLA/ShapesHD/9/0/3A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="4" clut="-1" normal_image="XBLA/ShapesHD/9/0/4.dds" glow_image="XBLA/ShapesHD/9/0/4A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="5" clut="-1" normal_image="XBLA/ShapesHD/9/0/5.dds" glow_image="XBLA/ShapesHD/9/0/5A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="6" clut="-1" normal_image="XBLA/ShapesHD/9/0/6.dds" glow_image="XBLA/ShapesHD/9/0/6A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="7" clut="-1" normal_image="XBLA/ShapesHD/9/0/7.dds" glow_image="XBLA/ShapesHD/9/0/7A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="8" clut="-1" normal_image="XBLA/ShapesHD/9/0/8.dds" glow_image="XBLA/ShapesHD/9/0/8A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="9" clut="-1" normal_image="XBLA/ShapesHD/9/0/9.dds" glow_image="XBLA/ShapesHD/9/0/9A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="10" clut="-1" normal_image="XBLA/ShapesHD/9/0/10.dds" glow_image="XBLA/ShapesHD/9/0/10A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="11" clut="-1" normal_image="XBLA/ShapesHD/9/0/11.dds" glow_image="XBLA/ShapesHD/9/0/11A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="12" clut="-1" normal_image="XBLA/ShapesHD/9/0/12.dds" glow_image="XBLA/ShapesHD/9/0/12A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="13" clut="-1" normal_image="XBLA/ShapesHD/9/0/13.dds" glow_image="XBLA/ShapesHD/9/0/13A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="14" clut="-1" normal_image="XBLA/ShapesHD/9/0/14.dds" glow_image="XBLA/ShapesHD/9/0/14A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="15" clut="-1" normal_image="XBLA/ShapesHD/9/0/15.dds" glow_image="XBLA/ShapesHD/9/0/15A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="16" clut="-1" normal_image="XBLA/ShapesHD/9/0/16.dds" glow_image="XBLA/ShapesHD/9/0/16A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="17" clut="-1" normal_image="XBLA/ShapesHD/9/0/17.dds" glow_image="XBLA/ShapesHD/9/0/17A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="18" clut="-1" normal_image="XBLA/ShapesHD/9/0/18.dds" glow_image="XBLA/ShapesHD/9/0/18A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="19" clut="-1" normal_image="XBLA/ShapesHD/9/0/19.dds" glow_image="XBLA/ShapesHD/9/0/19A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="20" clut="-1" normal_image="XBLA/ShapesHD/9/0/20.dds" glow_image="XBLA/ShapesHD/9/0/20A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="21" clut="-1" normal_image="XBLA/ShapesHD/9/0/21.dds" glow_image="XBLA/ShapesHD/9/0/21A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="22" clut="-1" normal_image="XBLA/ShapesHD/9/0/22.dds" glow_image="XBLA/ShapesHD/9/0/21A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="23" clut="-1" normal_image="XBLA/ShapesHD/9/0/23.dds" opac_type="1"/>
-<texture coll="9" bitmap="24" clut="-1" normal_image="XBLA/ShapesHD/9/0/24.dds" glow_image="XBLA/ShapesHD/9/0/24A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="25" clut="-1" normal_image="XBLA/ShapesHD/9/0/25.dds" glow_image="XBLA/ShapesHD/9/0/25A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="26" clut="-1" normal_image="XBLA/ShapesHD/9/0/26.dds" glow_image="XBLA/ShapesHD/9/0/26A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="27" clut="-1" normal_image="XBLA/ShapesHD/9/0/27.dds" glow_image="XBLA/ShapesHD/9/0/27A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="28" clut="-1" normal_image="XBLA/ShapesHD/9/0/28.dds" glow_image="XBLA/ShapesHD/9/0/28A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="29" clut="-1" normal_image="XBLA/ShapesHD/9/0/29.dds" glow_image="XBLA/ShapesHD/9/0/29A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="30" clut="-1" normal_image="XBLA/ShapesHD/9/0/30.dds" glow_image="XBLA/ShapesHD/9/0/30A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="31" clut="-1" normal_image="XBLA/ShapesHD/9/0/31.dds" glow_image="XBLA/ShapesHD/9/0/31A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="32" clut="-1" normal_image="XBLA/ShapesHD/9/0/32.dds" glow_image="XBLA/ShapesHD/9/0/32A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="33" clut="-1" normal_image="XBLA/ShapesHD/9/0/33.dds" glow_image="XBLA/ShapesHD/9/0/33A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="34" clut="-1" normal_image="XBLA/ShapesHD/9/0/34.dds" glow_image="XBLA/ShapesHD/9/0/34A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="35" clut="-1" normal_image="XBLA/ShapesHD/9/0/35.dds" glow_image="XBLA/ShapesHD/9/0/35A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="36" clut="-1" normal_image="XBLA/ShapesHD/9/0/36.dds" opac_type="1"/>
-<texture coll="9" bitmap="37" clut="-1" normal_image="XBLA/ShapesHD/9/0/37.dds" glow_image="XBLA/ShapesHD/9/0/37A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="38" clut="-1" normal_image="XBLA/ShapesHD/9/0/38.dds" glow_image="XBLA/ShapesHD/9/0/38A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="39" clut="-1" normal_image="XBLA/ShapesHD/9/0/39.dds" glow_image="XBLA/ShapesHD/9/0/39A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="40" clut="-1" normal_image="XBLA/ShapesHD/9/0/40.dds" glow_image="XBLA/ShapesHD/9/0/40A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="41" clut="-1" normal_image="XBLA/ShapesHD/9/0/41.dds" glow_image="XBLA/ShapesHD/9/0/41A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="42" clut="-1" normal_image="XBLA/ShapesHD/9/0/42.dds" glow_image="XBLA/ShapesHD/9/0/42A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="43" clut="-1" normal_image="XBLA/ShapesHD/9/0/43.dds" glow_image="XBLA/ShapesHD/9/0/43A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="44" clut="-1" normal_image="XBLA/ShapesHD/9/0/44.dds" glow_image="XBLA/ShapesHD/9/0/44A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="45" clut="-1" normal_image="XBLA/ShapesHD/9/0/45.dds" glow_image="XBLA/ShapesHD/9/0/45A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="46" clut="-1" normal_image="XBLA/ShapesHD/9/0/46.dds" glow_image="XBLA/ShapesHD/9/0/46A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="47" clut="-1" normal_image="XBLA/ShapesHD/9/0/47.dds" glow_image="XBLA/ShapesHD/9/0/47A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="48" clut="-1" normal_image="XBLA/ShapesHD/9/0/48.dds" glow_image="XBLA/ShapesHD/9/0/48A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="49" clut="-1" normal_image="XBLA/ShapesHD/9/0/49.dds" glow_image="XBLA/ShapesHD/9/0/49A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="50" clut="-1" normal_image="XBLA/ShapesHD/9/0/50.dds" glow_image="XBLA/ShapesHD/9/0/50A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="53" clut="-1" normal_image="XBLA/ShapesHD/9/0/53.dds" glow_image="XBLA/ShapesHD/9/0/53A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="54" clut="-1" normal_image="XBLA/ShapesHD/9/0/54.dds" glow_image="XBLA/ShapesHD/9/0/54A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="55" clut="-1" normal_image="XBLA/ShapesHD/9/0/55.dds" opac_type="1"/>
-<texture coll="9" bitmap="56" clut="-1" normal_image="XBLA/ShapesHD/9/0/56.dds" opac_type="1"/>
-<texture coll="9" bitmap="57" clut="-1" normal_image="XBLA/ShapesHD/9/0/57.dds" opac_type="1"/>
-<texture coll="9" bitmap="58" clut="-1" normal_image="XBLA/ShapesHD/9/0/58.dds" opac_type="1"/>
-<texture coll="9" bitmap="59" clut="-1" normal_image="XBLA/ShapesHD/9/2/59.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="60" clut="-1" normal_image="XBLA/ShapesHD/9/2/60.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="61" clut="-1" normal_image="XBLA/ShapesHD/9/2/61.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="62" clut="-1" normal_image="XBLA/ShapesHD/9/2/62.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="63" clut="-1" normal_image="XBLA/ShapesHD/9/2/63.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="64" clut="-1" normal_image="XBLA/ShapesHD/9/2/64.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="65" clut="-1" normal_image="XBLA/ShapesHD/9/2/65.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="66" clut="-1" normal_image="XBLA/ShapesHD/9/2/66.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="67" clut="-1" normal_image="XBLA/ShapesHD/9/0/67.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="68" clut="-1" normal_image="XBLA/ShapesHD/9/0/68.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="69" clut="-1" normal_image="XBLA/ShapesHD/9/0/69.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="70" clut="-1" normal_image="XBLA/ShapesHD/9/0/70.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="71" clut="-1" normal_image="XBLA/ShapesHD/9/0/71.dds" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="0" clut="-1" normal_image="XBLA/ShapesHD/9/0/0.png" glow_image="XBLA/ShapesHD/9/0/0A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="1" clut="-1" normal_image="XBLA/ShapesHD/9/0/1.png" glow_image="XBLA/ShapesHD/9/0/1A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="2" clut="-1" normal_image="XBLA/ShapesHD/9/0/2.png" glow_image="XBLA/ShapesHD/9/0/2A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="3" clut="-1" normal_image="XBLA/ShapesHD/9/0/3.png" glow_image="XBLA/ShapesHD/9/0/3A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="4" clut="-1" normal_image="XBLA/ShapesHD/9/0/4.png" glow_image="XBLA/ShapesHD/9/0/4A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="5" clut="-1" normal_image="XBLA/ShapesHD/9/0/5.png" glow_image="XBLA/ShapesHD/9/0/5A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="6" clut="-1" normal_image="XBLA/ShapesHD/9/0/6.png" glow_image="XBLA/ShapesHD/9/0/6A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="7" clut="-1" normal_image="XBLA/ShapesHD/9/0/7.png" glow_image="XBLA/ShapesHD/9/0/7A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="8" clut="-1" normal_image="XBLA/ShapesHD/9/0/8.png" glow_image="XBLA/ShapesHD/9/0/8A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="9" clut="-1" normal_image="XBLA/ShapesHD/9/0/9.png" glow_image="XBLA/ShapesHD/9/0/9A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="10" clut="-1" normal_image="XBLA/ShapesHD/9/0/10.png" glow_image="XBLA/ShapesHD/9/0/10A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="11" clut="-1" normal_image="XBLA/ShapesHD/9/0/11.png" glow_image="XBLA/ShapesHD/9/0/11A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="12" clut="-1" normal_image="XBLA/ShapesHD/9/0/12.png" glow_image="XBLA/ShapesHD/9/0/12A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="13" clut="-1" normal_image="XBLA/ShapesHD/9/0/13.png" glow_image="XBLA/ShapesHD/9/0/13A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="14" clut="-1" normal_image="XBLA/ShapesHD/9/0/14.png" glow_image="XBLA/ShapesHD/9/0/14A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="15" clut="-1" normal_image="XBLA/ShapesHD/9/0/15.png" glow_image="XBLA/ShapesHD/9/0/15A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="16" clut="-1" normal_image="XBLA/ShapesHD/9/0/16.png" glow_image="XBLA/ShapesHD/9/0/16A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="17" clut="-1" normal_image="XBLA/ShapesHD/9/0/17.png" glow_image="XBLA/ShapesHD/9/0/17A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="18" clut="-1" normal_image="XBLA/ShapesHD/9/0/18.png" glow_image="XBLA/ShapesHD/9/0/18A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="19" clut="-1" normal_image="XBLA/ShapesHD/9/0/19.png" glow_image="XBLA/ShapesHD/9/0/19A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="20" clut="-1" normal_image="XBLA/ShapesHD/9/0/20.png" glow_image="XBLA/ShapesHD/9/0/20A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="21" clut="-1" normal_image="XBLA/ShapesHD/9/0/21.png" glow_image="XBLA/ShapesHD/9/0/21A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="22" clut="-1" normal_image="XBLA/ShapesHD/9/0/22.png" glow_image="XBLA/ShapesHD/9/0/21A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="23" clut="-1" normal_image="XBLA/ShapesHD/9/0/23.png" opac_type="1"/>
+<texture coll="9" bitmap="24" clut="-1" normal_image="XBLA/ShapesHD/9/0/24.png" glow_image="XBLA/ShapesHD/9/0/24A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="25" clut="-1" normal_image="XBLA/ShapesHD/9/0/25.png" glow_image="XBLA/ShapesHD/9/0/25A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="26" clut="-1" normal_image="XBLA/ShapesHD/9/0/26.png" glow_image="XBLA/ShapesHD/9/0/26A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="27" clut="-1" normal_image="XBLA/ShapesHD/9/0/27.png" glow_image="XBLA/ShapesHD/9/0/27A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="28" clut="-1" normal_image="XBLA/ShapesHD/9/0/28.png" glow_image="XBLA/ShapesHD/9/0/28A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="29" clut="-1" normal_image="XBLA/ShapesHD/9/0/29.png" glow_image="XBLA/ShapesHD/9/0/29A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="30" clut="-1" normal_image="XBLA/ShapesHD/9/0/30.png" glow_image="XBLA/ShapesHD/9/0/30A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="31" clut="-1" normal_image="XBLA/ShapesHD/9/0/31.png" glow_image="XBLA/ShapesHD/9/0/31A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="32" clut="-1" normal_image="XBLA/ShapesHD/9/0/32.png" glow_image="XBLA/ShapesHD/9/0/32A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="33" clut="-1" normal_image="XBLA/ShapesHD/9/0/33.png" glow_image="XBLA/ShapesHD/9/0/33A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="34" clut="-1" normal_image="XBLA/ShapesHD/9/0/34.png" glow_image="XBLA/ShapesHD/9/0/34A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="35" clut="-1" normal_image="XBLA/ShapesHD/9/0/35.png" glow_image="XBLA/ShapesHD/9/0/35A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="36" clut="-1" normal_image="XBLA/ShapesHD/9/0/36.png" opac_type="1"/>
+<texture coll="9" bitmap="37" clut="-1" normal_image="XBLA/ShapesHD/9/0/37.png" glow_image="XBLA/ShapesHD/9/0/37A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="38" clut="-1" normal_image="XBLA/ShapesHD/9/0/38.png" glow_image="XBLA/ShapesHD/9/0/38A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="39" clut="-1" normal_image="XBLA/ShapesHD/9/0/39.png" glow_image="XBLA/ShapesHD/9/0/39A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="40" clut="-1" normal_image="XBLA/ShapesHD/9/0/40.png" glow_image="XBLA/ShapesHD/9/0/40A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="41" clut="-1" normal_image="XBLA/ShapesHD/9/0/41.png" glow_image="XBLA/ShapesHD/9/0/41A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="42" clut="-1" normal_image="XBLA/ShapesHD/9/0/42.png" glow_image="XBLA/ShapesHD/9/0/42A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="43" clut="-1" normal_image="XBLA/ShapesHD/9/0/43.png" glow_image="XBLA/ShapesHD/9/0/43A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="44" clut="-1" normal_image="XBLA/ShapesHD/9/0/44.png" glow_image="XBLA/ShapesHD/9/0/44A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="45" clut="-1" normal_image="XBLA/ShapesHD/9/0/45.png" glow_image="XBLA/ShapesHD/9/0/45A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="46" clut="-1" normal_image="XBLA/ShapesHD/9/0/46.png" glow_image="XBLA/ShapesHD/9/0/46A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="47" clut="-1" normal_image="XBLA/ShapesHD/9/0/47.png" glow_image="XBLA/ShapesHD/9/0/47A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="48" clut="-1" normal_image="XBLA/ShapesHD/9/0/48.png" glow_image="XBLA/ShapesHD/9/0/48A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="49" clut="-1" normal_image="XBLA/ShapesHD/9/0/49.png" glow_image="XBLA/ShapesHD/9/0/49A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="50" clut="-1" normal_image="XBLA/ShapesHD/9/0/50.png" glow_image="XBLA/ShapesHD/9/0/50A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="53" clut="-1" normal_image="XBLA/ShapesHD/9/0/53.png" glow_image="XBLA/ShapesHD/9/0/53A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="54" clut="-1" normal_image="XBLA/ShapesHD/9/0/54.png" glow_image="XBLA/ShapesHD/9/0/54A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="55" clut="-1" normal_image="XBLA/ShapesHD/9/0/55.png" opac_type="1"/>
+<texture coll="9" bitmap="56" clut="-1" normal_image="XBLA/ShapesHD/9/0/56.png" opac_type="1"/>
+<texture coll="9" bitmap="57" clut="-1" normal_image="XBLA/ShapesHD/9/0/57.png" opac_type="1"/>
+<texture coll="9" bitmap="58" clut="-1" normal_image="XBLA/ShapesHD/9/0/58.png" opac_type="1"/>
+<texture coll="9" bitmap="59" clut="-1" normal_image="XBLA/ShapesHD/9/2/59.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="60" clut="-1" normal_image="XBLA/ShapesHD/9/2/60.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="61" clut="-1" normal_image="XBLA/ShapesHD/9/2/61.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="62" clut="-1" normal_image="XBLA/ShapesHD/9/2/62.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="63" clut="-1" normal_image="XBLA/ShapesHD/9/2/63.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="64" clut="-1" normal_image="XBLA/ShapesHD/9/2/64.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="65" clut="-1" normal_image="XBLA/ShapesHD/9/2/65.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="66" clut="-1" normal_image="XBLA/ShapesHD/9/2/66.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="67" clut="-1" normal_image="XBLA/ShapesHD/9/0/67.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="68" clut="-1" normal_image="XBLA/ShapesHD/9/0/68.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="69" clut="-1" normal_image="XBLA/ShapesHD/9/0/69.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="70" clut="-1" normal_image="XBLA/ShapesHD/9/0/70.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="71" clut="-1" normal_image="XBLA/ShapesHD/9/0/71.png" normal_bloom_shift="0.6" opac_type="1"/>
 
-<texture coll="9" bitmap="0" clut="1" normal_image="XBLA/ShapesHD/9/1/0.dds" glow_image="XBLA/ShapesHD/9/1/0A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="1" clut="1" normal_image="XBLA/ShapesHD/9/1/1.dds" glow_image="XBLA/ShapesHD/9/1/1A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="2" clut="1" normal_image="XBLA/ShapesHD/9/1/2.dds" glow_image="XBLA/ShapesHD/9/1/2A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="3" clut="1" normal_image="XBLA/ShapesHD/9/1/3.dds" glow_image="XBLA/ShapesHD/9/1/3A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="4" clut="1" normal_image="XBLA/ShapesHD/9/1/4.dds" glow_image="XBLA/ShapesHD/9/1/4A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="5" clut="1" normal_image="XBLA/ShapesHD/9/1/5.dds" glow_image="XBLA/ShapesHD/9/1/5A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="6" clut="1" normal_image="XBLA/ShapesHD/9/1/6.dds" glow_image="XBLA/ShapesHD/9/1/6A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="7" clut="1" normal_image="XBLA/ShapesHD/9/1/7.dds" glow_image="XBLA/ShapesHD/9/1/7A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="8" clut="1" normal_image="XBLA/ShapesHD/9/1/8.dds" glow_image="XBLA/ShapesHD/9/1/8A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="9" clut="1" normal_image="XBLA/ShapesHD/9/1/9.dds" glow_image="XBLA/ShapesHD/9/1/9A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="10" clut="1" normal_image="XBLA/ShapesHD/9/1/10.dds" glow_image="XBLA/ShapesHD/9/1/10A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="11" clut="1" normal_image="XBLA/ShapesHD/9/1/11.dds" glow_image="XBLA/ShapesHD/9/1/11A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="12" clut="1" normal_image="XBLA/ShapesHD/9/1/12.dds" glow_image="XBLA/ShapesHD/9/1/12A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="13" clut="1" normal_image="XBLA/ShapesHD/9/1/13.dds" glow_image="XBLA/ShapesHD/9/1/13A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="14" clut="1" normal_image="XBLA/ShapesHD/9/1/14.dds" glow_image="XBLA/ShapesHD/9/1/14A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="15" clut="1" normal_image="XBLA/ShapesHD/9/1/15.dds" glow_image="XBLA/ShapesHD/9/1/15A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="16" clut="1" normal_image="XBLA/ShapesHD/9/1/16.dds" glow_image="XBLA/ShapesHD/9/1/16A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="17" clut="1" normal_image="XBLA/ShapesHD/9/1/17.dds" glow_image="XBLA/ShapesHD/9/1/17A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="18" clut="1" normal_image="XBLA/ShapesHD/9/1/18.dds" glow_image="XBLA/ShapesHD/9/1/18A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="19" clut="1" normal_image="XBLA/ShapesHD/9/1/19.dds" glow_image="XBLA/ShapesHD/9/1/19A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="20" clut="1" normal_image="XBLA/ShapesHD/9/1/20.dds" glow_image="XBLA/ShapesHD/9/1/20A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="21" clut="1" normal_image="XBLA/ShapesHD/9/1/21.dds" glow_image="XBLA/ShapesHD/9/1/21A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="22" clut="1" normal_image="XBLA/ShapesHD/9/0/22.dds" glow_image="XBLA/ShapesHD/9/1/22A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="23" clut="1" normal_image="XBLA/ShapesHD/9/0/23.dds" opac_type="1"/>
-<texture coll="9" bitmap="24" clut="1" normal_image="XBLA/ShapesHD/9/1/24.dds" glow_image="XBLA/ShapesHD/9/1/24A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="25" clut="1" normal_image="XBLA/ShapesHD/9/1/25.dds" glow_image="XBLA/ShapesHD/9/1/25A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="26" clut="1" normal_image="XBLA/ShapesHD/9/1/26.dds" glow_image="XBLA/ShapesHD/9/1/26A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="27" clut="1" normal_image="XBLA/ShapesHD/9/1/27.dds" glow_image="XBLA/ShapesHD/9/1/27A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="28" clut="1" normal_image="XBLA/ShapesHD/9/1/28.dds" glow_image="XBLA/ShapesHD/9/1/28A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="29" clut="1" normal_image="XBLA/ShapesHD/9/1/29.dds" glow_image="XBLA/ShapesHD/9/1/29A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="30" clut="1" normal_image="XBLA/ShapesHD/9/1/30.dds" glow_image="XBLA/ShapesHD/9/1/30A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="31" clut="1" normal_image="XBLA/ShapesHD/9/1/31.dds" glow_image="XBLA/ShapesHD/9/1/31A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="32" clut="1" normal_image="XBLA/ShapesHD/9/1/32.dds" glow_image="XBLA/ShapesHD/9/1/32A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="33" clut="1" normal_image="XBLA/ShapesHD/9/1/33.dds" glow_image="XBLA/ShapesHD/9/1/33A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="34" clut="1" normal_image="XBLA/ShapesHD/9/1/34.dds" glow_image="XBLA/ShapesHD/9/1/34A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="35" clut="1" normal_image="XBLA/ShapesHD/9/1/35.dds" glow_image="XBLA/ShapesHD/9/1/35A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="36" clut="1" normal_image="XBLA/ShapesHD/9/1/36.dds" opac_type="1"/>
-<texture coll="9" bitmap="37" clut="1" normal_image="XBLA/ShapesHD/9/1/37.dds" glow_image="XBLA/ShapesHD/9/1/37A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="38" clut="1" normal_image="XBLA/ShapesHD/9/1/38.dds" glow_image="XBLA/ShapesHD/9/1/38A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="39" clut="1" normal_image="XBLA/ShapesHD/9/1/39.dds" glow_image="XBLA/ShapesHD/9/1/39A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="40" clut="1" normal_image="XBLA/ShapesHD/9/1/40.dds" glow_image="XBLA/ShapesHD/9/1/40A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="41" clut="1" normal_image="XBLA/ShapesHD/9/1/41.dds" glow_image="XBLA/ShapesHD/9/1/41A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="42" clut="1" normal_image="XBLA/ShapesHD/9/1/42.dds" glow_image="XBLA/ShapesHD/9/1/42A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="43" clut="1" normal_image="XBLA/ShapesHD/9/1/43.dds" glow_image="XBLA/ShapesHD/9/1/43A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="44" clut="1" normal_image="XBLA/ShapesHD/9/1/44.dds" glow_image="XBLA/ShapesHD/9/1/44A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="45" clut="1" normal_image="XBLA/ShapesHD/9/1/45.dds" glow_image="XBLA/ShapesHD/9/1/45A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="46" clut="1" normal_image="XBLA/ShapesHD/9/1/46.dds" glow_image="XBLA/ShapesHD/9/1/46A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="47" clut="1" normal_image="XBLA/ShapesHD/9/1/47.dds" glow_image="XBLA/ShapesHD/9/1/47A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="48" clut="1" normal_image="XBLA/ShapesHD/9/1/48.dds" glow_image="XBLA/ShapesHD/9/1/48A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="49" clut="1" normal_image="XBLA/ShapesHD/9/1/49.dds" glow_image="XBLA/ShapesHD/9/1/49A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="50" clut="1" normal_image="XBLA/ShapesHD/9/1/50.dds" glow_image="XBLA/ShapesHD/9/1/50A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="53" clut="1" normal_image="XBLA/ShapesHD/9/1/53.dds" glow_image="XBLA/ShapesHD/9/1/53A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="54" clut="1" normal_image="XBLA/ShapesHD/9/1/54.dds" glow_image="XBLA/ShapesHD/9/1/54A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="55" clut="1" normal_image="XBLA/ShapesHD/9/0/55.dds" opac_type="1"/>
-<texture coll="9" bitmap="56" clut="1" normal_image="XBLA/ShapesHD/9/0/56.dds" opac_type="1"/>
-<texture coll="9" bitmap="57" clut="1" normal_image="XBLA/ShapesHD/9/0/57.dds" opac_type="1"/>
-<texture coll="9" bitmap="58" clut="1" normal_image="XBLA/ShapesHD/9/0/58.dds" opac_type="1"/>
-<texture coll="9" bitmap="59" clut="1" normal_image="XBLA/ShapesHD/9/2/59.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="60" clut="1" normal_image="XBLA/ShapesHD/9/2/60.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="61" clut="1" normal_image="XBLA/ShapesHD/9/2/61.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="62" clut="1" normal_image="XBLA/ShapesHD/9/2/62.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="63" clut="1" normal_image="XBLA/ShapesHD/9/2/63.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="64" clut="1" normal_image="XBLA/ShapesHD/9/2/64.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="65" clut="1" normal_image="XBLA/ShapesHD/9/2/65.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="66" clut="1" normal_image="XBLA/ShapesHD/9/2/66.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="67" clut="1" normal_image="XBLA/ShapesHD/9/0/67.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="68" clut="1" normal_image="XBLA/ShapesHD/9/0/68.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="69" clut="1" normal_image="XBLA/ShapesHD/9/0/69.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="70" clut="1" normal_image="XBLA/ShapesHD/9/0/70.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="71" clut="1" normal_image="XBLA/ShapesHD/9/0/71.dds" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="0" clut="1" normal_image="XBLA/ShapesHD/9/1/0.png" glow_image="XBLA/ShapesHD/9/1/0A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="1" clut="1" normal_image="XBLA/ShapesHD/9/1/1.png" glow_image="XBLA/ShapesHD/9/1/1A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="2" clut="1" normal_image="XBLA/ShapesHD/9/1/2.png" glow_image="XBLA/ShapesHD/9/1/2A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="3" clut="1" normal_image="XBLA/ShapesHD/9/1/3.png" glow_image="XBLA/ShapesHD/9/1/3A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="4" clut="1" normal_image="XBLA/ShapesHD/9/1/4.png" glow_image="XBLA/ShapesHD/9/1/4A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="5" clut="1" normal_image="XBLA/ShapesHD/9/1/5.png" glow_image="XBLA/ShapesHD/9/1/5A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="6" clut="1" normal_image="XBLA/ShapesHD/9/1/6.png" glow_image="XBLA/ShapesHD/9/1/6A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="7" clut="1" normal_image="XBLA/ShapesHD/9/1/7.png" glow_image="XBLA/ShapesHD/9/1/7A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="8" clut="1" normal_image="XBLA/ShapesHD/9/1/8.png" glow_image="XBLA/ShapesHD/9/1/8A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="9" clut="1" normal_image="XBLA/ShapesHD/9/1/9.png" glow_image="XBLA/ShapesHD/9/1/9A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="10" clut="1" normal_image="XBLA/ShapesHD/9/1/10.png" glow_image="XBLA/ShapesHD/9/1/10A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="11" clut="1" normal_image="XBLA/ShapesHD/9/1/11.png" glow_image="XBLA/ShapesHD/9/1/11A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="12" clut="1" normal_image="XBLA/ShapesHD/9/1/12.png" glow_image="XBLA/ShapesHD/9/1/12A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="13" clut="1" normal_image="XBLA/ShapesHD/9/1/13.png" glow_image="XBLA/ShapesHD/9/1/13A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="14" clut="1" normal_image="XBLA/ShapesHD/9/1/14.png" glow_image="XBLA/ShapesHD/9/1/14A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="15" clut="1" normal_image="XBLA/ShapesHD/9/1/15.png" glow_image="XBLA/ShapesHD/9/1/15A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="16" clut="1" normal_image="XBLA/ShapesHD/9/1/16.png" glow_image="XBLA/ShapesHD/9/1/16A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="17" clut="1" normal_image="XBLA/ShapesHD/9/1/17.png" glow_image="XBLA/ShapesHD/9/1/17A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="18" clut="1" normal_image="XBLA/ShapesHD/9/1/18.png" glow_image="XBLA/ShapesHD/9/1/18A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="19" clut="1" normal_image="XBLA/ShapesHD/9/1/19.png" glow_image="XBLA/ShapesHD/9/1/19A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="20" clut="1" normal_image="XBLA/ShapesHD/9/1/20.png" glow_image="XBLA/ShapesHD/9/1/20A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="21" clut="1" normal_image="XBLA/ShapesHD/9/1/21.png" glow_image="XBLA/ShapesHD/9/1/21A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="22" clut="1" normal_image="XBLA/ShapesHD/9/0/22.png" glow_image="XBLA/ShapesHD/9/1/22A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="23" clut="1" normal_image="XBLA/ShapesHD/9/0/23.png" opac_type="1"/>
+<texture coll="9" bitmap="24" clut="1" normal_image="XBLA/ShapesHD/9/1/24.png" glow_image="XBLA/ShapesHD/9/1/24A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="25" clut="1" normal_image="XBLA/ShapesHD/9/1/25.png" glow_image="XBLA/ShapesHD/9/1/25A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="26" clut="1" normal_image="XBLA/ShapesHD/9/1/26.png" glow_image="XBLA/ShapesHD/9/1/26A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="27" clut="1" normal_image="XBLA/ShapesHD/9/1/27.png" glow_image="XBLA/ShapesHD/9/1/27A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="28" clut="1" normal_image="XBLA/ShapesHD/9/1/28.png" glow_image="XBLA/ShapesHD/9/1/28A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="29" clut="1" normal_image="XBLA/ShapesHD/9/1/29.png" glow_image="XBLA/ShapesHD/9/1/29A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="30" clut="1" normal_image="XBLA/ShapesHD/9/1/30.png" glow_image="XBLA/ShapesHD/9/1/30A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="31" clut="1" normal_image="XBLA/ShapesHD/9/1/31.png" glow_image="XBLA/ShapesHD/9/1/31A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="32" clut="1" normal_image="XBLA/ShapesHD/9/1/32.png" glow_image="XBLA/ShapesHD/9/1/32A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="33" clut="1" normal_image="XBLA/ShapesHD/9/1/33.png" glow_image="XBLA/ShapesHD/9/1/33A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="34" clut="1" normal_image="XBLA/ShapesHD/9/1/34.png" glow_image="XBLA/ShapesHD/9/1/34A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="35" clut="1" normal_image="XBLA/ShapesHD/9/1/35.png" glow_image="XBLA/ShapesHD/9/1/35A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="36" clut="1" normal_image="XBLA/ShapesHD/9/1/36.png" opac_type="1"/>
+<texture coll="9" bitmap="37" clut="1" normal_image="XBLA/ShapesHD/9/1/37.png" glow_image="XBLA/ShapesHD/9/1/37A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="38" clut="1" normal_image="XBLA/ShapesHD/9/1/38.png" glow_image="XBLA/ShapesHD/9/1/38A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="39" clut="1" normal_image="XBLA/ShapesHD/9/1/39.png" glow_image="XBLA/ShapesHD/9/1/39A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="40" clut="1" normal_image="XBLA/ShapesHD/9/1/40.png" glow_image="XBLA/ShapesHD/9/1/40A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="41" clut="1" normal_image="XBLA/ShapesHD/9/1/41.png" glow_image="XBLA/ShapesHD/9/1/41A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="42" clut="1" normal_image="XBLA/ShapesHD/9/1/42.png" glow_image="XBLA/ShapesHD/9/1/42A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="43" clut="1" normal_image="XBLA/ShapesHD/9/1/43.png" glow_image="XBLA/ShapesHD/9/1/43A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="44" clut="1" normal_image="XBLA/ShapesHD/9/1/44.png" glow_image="XBLA/ShapesHD/9/1/44A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="45" clut="1" normal_image="XBLA/ShapesHD/9/1/45.png" glow_image="XBLA/ShapesHD/9/1/45A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="46" clut="1" normal_image="XBLA/ShapesHD/9/1/46.png" glow_image="XBLA/ShapesHD/9/1/46A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="47" clut="1" normal_image="XBLA/ShapesHD/9/1/47.png" glow_image="XBLA/ShapesHD/9/1/47A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="48" clut="1" normal_image="XBLA/ShapesHD/9/1/48.png" glow_image="XBLA/ShapesHD/9/1/48A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="49" clut="1" normal_image="XBLA/ShapesHD/9/1/49.png" glow_image="XBLA/ShapesHD/9/1/49A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="50" clut="1" normal_image="XBLA/ShapesHD/9/1/50.png" glow_image="XBLA/ShapesHD/9/1/50A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="53" clut="1" normal_image="XBLA/ShapesHD/9/1/53.png" glow_image="XBLA/ShapesHD/9/1/53A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="54" clut="1" normal_image="XBLA/ShapesHD/9/1/54.png" glow_image="XBLA/ShapesHD/9/1/54A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="55" clut="1" normal_image="XBLA/ShapesHD/9/0/55.png" opac_type="1"/>
+<texture coll="9" bitmap="56" clut="1" normal_image="XBLA/ShapesHD/9/0/56.png" opac_type="1"/>
+<texture coll="9" bitmap="57" clut="1" normal_image="XBLA/ShapesHD/9/0/57.png" opac_type="1"/>
+<texture coll="9" bitmap="58" clut="1" normal_image="XBLA/ShapesHD/9/0/58.png" opac_type="1"/>
+<texture coll="9" bitmap="59" clut="1" normal_image="XBLA/ShapesHD/9/2/59.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="60" clut="1" normal_image="XBLA/ShapesHD/9/2/60.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="61" clut="1" normal_image="XBLA/ShapesHD/9/2/61.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="62" clut="1" normal_image="XBLA/ShapesHD/9/2/62.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="63" clut="1" normal_image="XBLA/ShapesHD/9/2/63.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="64" clut="1" normal_image="XBLA/ShapesHD/9/2/64.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="65" clut="1" normal_image="XBLA/ShapesHD/9/2/65.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="66" clut="1" normal_image="XBLA/ShapesHD/9/2/66.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="67" clut="1" normal_image="XBLA/ShapesHD/9/0/67.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="68" clut="1" normal_image="XBLA/ShapesHD/9/0/68.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="69" clut="1" normal_image="XBLA/ShapesHD/9/0/69.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="70" clut="1" normal_image="XBLA/ShapesHD/9/0/70.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="71" clut="1" normal_image="XBLA/ShapesHD/9/0/71.png" normal_bloom_shift="0.6" opac_type="1"/>
 
-<texture coll="9" bitmap="0" clut="2" normal_image="XBLA/ShapesHD/9/2/0.dds" glow_image="XBLA/ShapesHD/9/2/0A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="1" clut="2" normal_image="XBLA/ShapesHD/9/2/1.dds" glow_image="XBLA/ShapesHD/9/2/1A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="2" clut="2" normal_image="XBLA/ShapesHD/9/2/2.dds" glow_image="XBLA/ShapesHD/9/2/2A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="3" clut="2" normal_image="XBLA/ShapesHD/9/2/3.dds" glow_image="XBLA/ShapesHD/9/2/3A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="4" clut="2" normal_image="XBLA/ShapesHD/9/2/4.dds" glow_image="XBLA/ShapesHD/9/2/4A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="5" clut="2" normal_image="XBLA/ShapesHD/9/2/5.dds" glow_image="XBLA/ShapesHD/9/2/5A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="6" clut="2" normal_image="XBLA/ShapesHD/9/2/6.dds" glow_image="XBLA/ShapesHD/9/2/6A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="7" clut="2" normal_image="XBLA/ShapesHD/9/2/7.dds" glow_image="XBLA/ShapesHD/9/2/7A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="8" clut="2" normal_image="XBLA/ShapesHD/9/2/8.dds" glow_image="XBLA/ShapesHD/9/2/8A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="9" clut="2" normal_image="XBLA/ShapesHD/9/2/9.dds" glow_image="XBLA/ShapesHD/9/2/9A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="10" clut="2" normal_image="XBLA/ShapesHD/9/2/10.dds" glow_image="XBLA/ShapesHD/9/2/10A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="11" clut="2" normal_image="XBLA/ShapesHD/9/2/11.dds" glow_image="XBLA/ShapesHD/9/2/11A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="12" clut="2" normal_image="XBLA/ShapesHD/9/2/12.dds" glow_image="XBLA/ShapesHD/9/2/12A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="13" clut="2" normal_image="XBLA/ShapesHD/9/2/13.dds" glow_image="XBLA/ShapesHD/9/2/13A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="14" clut="2" normal_image="XBLA/ShapesHD/9/2/14.dds" glow_image="XBLA/ShapesHD/9/2/14A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="15" clut="2" normal_image="XBLA/ShapesHD/9/2/15.dds" glow_image="XBLA/ShapesHD/9/2/15A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="16" clut="2" normal_image="XBLA/ShapesHD/9/2/16.dds" glow_image="XBLA/ShapesHD/9/2/16A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="17" clut="2" normal_image="XBLA/ShapesHD/9/2/17.dds" glow_image="XBLA/ShapesHD/9/2/17A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="18" clut="2" normal_image="XBLA/ShapesHD/9/2/18.dds" glow_image="XBLA/ShapesHD/9/2/18A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="19" clut="2" normal_image="XBLA/ShapesHD/9/2/19.dds" glow_image="XBLA/ShapesHD/9/2/19A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="20" clut="2" normal_image="XBLA/ShapesHD/9/2/20.dds" glow_image="XBLA/ShapesHD/9/2/20A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="21" clut="2" normal_image="XBLA/ShapesHD/9/2/21.dds" glow_image="XBLA/ShapesHD/9/2/21A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="22" clut="2" normal_image="XBLA/ShapesHD/9/0/22.dds" glow_image="XBLA/ShapesHD/9/2/22A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="23" clut="2" normal_image="XBLA/ShapesHD/9/0/23.dds" opac_type="1"/>
-<texture coll="9" bitmap="24" clut="2" normal_image="XBLA/ShapesHD/9/2/24.dds" glow_image="XBLA/ShapesHD/9/2/24A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="25" clut="2" normal_image="XBLA/ShapesHD/9/2/25.dds" glow_image="XBLA/ShapesHD/9/2/25A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="26" clut="2" normal_image="XBLA/ShapesHD/9/2/26.dds" glow_image="XBLA/ShapesHD/9/2/26A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="27" clut="2" normal_image="XBLA/ShapesHD/9/2/27.dds" glow_image="XBLA/ShapesHD/9/2/27A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="28" clut="2" normal_image="XBLA/ShapesHD/9/2/28.dds" glow_image="XBLA/ShapesHD/9/2/28A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="29" clut="2" normal_image="XBLA/ShapesHD/9/2/29.dds" glow_image="XBLA/ShapesHD/9/2/29A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="30" clut="2" normal_image="XBLA/ShapesHD/9/2/30.dds" glow_image="XBLA/ShapesHD/9/2/30A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="31" clut="2" normal_image="XBLA/ShapesHD/9/2/31.dds" glow_image="XBLA/ShapesHD/9/2/31A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="32" clut="2" normal_image="XBLA/ShapesHD/9/2/32.dds" glow_image="XBLA/ShapesHD/9/2/32A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="33" clut="2" normal_image="XBLA/ShapesHD/9/2/33.dds" glow_image="XBLA/ShapesHD/9/2/33A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="34" clut="2" normal_image="XBLA/ShapesHD/9/2/34.dds" glow_image="XBLA/ShapesHD/9/2/34A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="35" clut="2" normal_image="XBLA/ShapesHD/9/2/35.dds" glow_image="XBLA/ShapesHD/9/2/35A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="36" clut="2" normal_image="XBLA/ShapesHD/9/2/36.dds" opac_type="1"/>
-<texture coll="9" bitmap="37" clut="2" normal_image="XBLA/ShapesHD/9/2/37.dds" glow_image="XBLA/ShapesHD/9/2/37A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="38" clut="2" normal_image="XBLA/ShapesHD/9/2/38.dds" glow_image="XBLA/ShapesHD/9/2/38A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="39" clut="2" normal_image="XBLA/ShapesHD/9/2/39.dds" glow_image="XBLA/ShapesHD/9/2/39A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="40" clut="2" normal_image="XBLA/ShapesHD/9/2/40.dds" glow_image="XBLA/ShapesHD/9/2/40A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="41" clut="2" normal_image="XBLA/ShapesHD/9/2/41.dds" glow_image="XBLA/ShapesHD/9/2/41A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="42" clut="2" normal_image="XBLA/ShapesHD/9/2/42.dds" glow_image="XBLA/ShapesHD/9/2/42A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="43" clut="2" normal_image="XBLA/ShapesHD/9/2/43.dds" glow_image="XBLA/ShapesHD/9/2/43A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="44" clut="2" normal_image="XBLA/ShapesHD/9/2/44.dds" glow_image="XBLA/ShapesHD/9/2/44A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="45" clut="2" normal_image="XBLA/ShapesHD/9/2/45.dds" glow_image="XBLA/ShapesHD/9/2/45A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="46" clut="2" normal_image="XBLA/ShapesHD/9/2/46.dds" glow_image="XBLA/ShapesHD/9/2/46A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="47" clut="2" normal_image="XBLA/ShapesHD/9/2/47.dds" glow_image="XBLA/ShapesHD/9/2/47A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="48" clut="2" normal_image="XBLA/ShapesHD/9/2/48.dds" glow_image="XBLA/ShapesHD/9/2/48A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="49" clut="2" normal_image="XBLA/ShapesHD/9/2/49.dds" glow_image="XBLA/ShapesHD/9/2/49A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="50" clut="2" normal_image="XBLA/ShapesHD/9/2/50.dds" glow_image="XBLA/ShapesHD/9/2/50A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="53" clut="2" normal_image="XBLA/ShapesHD/9/2/53.dds" glow_image="XBLA/ShapesHD/9/2/53A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="54" clut="2" normal_image="XBLA/ShapesHD/9/2/54.dds" glow_image="XBLA/ShapesHD/9/2/54A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="55" clut="2" normal_image="XBLA/ShapesHD/9/0/55.dds" opac_type="1"/>
-<texture coll="9" bitmap="56" clut="2" normal_image="XBLA/ShapesHD/9/0/56.dds" opac_type="1"/>
-<texture coll="9" bitmap="57" clut="2" normal_image="XBLA/ShapesHD/9/0/57.dds" opac_type="1"/>
-<texture coll="9" bitmap="58" clut="2" normal_image="XBLA/ShapesHD/9/0/58.dds" opac_type="1"/>
-<texture coll="9" bitmap="59" clut="2" normal_image="XBLA/ShapesHD/9/2/59.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="60" clut="2" normal_image="XBLA/ShapesHD/9/2/60.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="61" clut="2" normal_image="XBLA/ShapesHD/9/2/61.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="62" clut="2" normal_image="XBLA/ShapesHD/9/2/62.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="63" clut="2" normal_image="XBLA/ShapesHD/9/2/63.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="64" clut="2" normal_image="XBLA/ShapesHD/9/2/64.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="65" clut="2" normal_image="XBLA/ShapesHD/9/2/65.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="66" clut="2" normal_image="XBLA/ShapesHD/9/2/66.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="67" clut="2" normal_image="XBLA/ShapesHD/9/0/67.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="68" clut="2" normal_image="XBLA/ShapesHD/9/0/68.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="69" clut="2" normal_image="XBLA/ShapesHD/9/0/69.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="70" clut="2" normal_image="XBLA/ShapesHD/9/0/70.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="71" clut="2" normal_image="XBLA/ShapesHD/9/0/71.dds" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="0" clut="2" normal_image="XBLA/ShapesHD/9/2/0.png" glow_image="XBLA/ShapesHD/9/2/0A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="1" clut="2" normal_image="XBLA/ShapesHD/9/2/1.png" glow_image="XBLA/ShapesHD/9/2/1A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="2" clut="2" normal_image="XBLA/ShapesHD/9/2/2.png" glow_image="XBLA/ShapesHD/9/2/2A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="3" clut="2" normal_image="XBLA/ShapesHD/9/2/3.png" glow_image="XBLA/ShapesHD/9/2/3A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="4" clut="2" normal_image="XBLA/ShapesHD/9/2/4.png" glow_image="XBLA/ShapesHD/9/2/4A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="5" clut="2" normal_image="XBLA/ShapesHD/9/2/5.png" glow_image="XBLA/ShapesHD/9/2/5A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="6" clut="2" normal_image="XBLA/ShapesHD/9/2/6.png" glow_image="XBLA/ShapesHD/9/2/6A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="7" clut="2" normal_image="XBLA/ShapesHD/9/2/7.png" glow_image="XBLA/ShapesHD/9/2/7A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="8" clut="2" normal_image="XBLA/ShapesHD/9/2/8.png" glow_image="XBLA/ShapesHD/9/2/8A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="9" clut="2" normal_image="XBLA/ShapesHD/9/2/9.png" glow_image="XBLA/ShapesHD/9/2/9A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="10" clut="2" normal_image="XBLA/ShapesHD/9/2/10.png" glow_image="XBLA/ShapesHD/9/2/10A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="11" clut="2" normal_image="XBLA/ShapesHD/9/2/11.png" glow_image="XBLA/ShapesHD/9/2/11A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="12" clut="2" normal_image="XBLA/ShapesHD/9/2/12.png" glow_image="XBLA/ShapesHD/9/2/12A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="13" clut="2" normal_image="XBLA/ShapesHD/9/2/13.png" glow_image="XBLA/ShapesHD/9/2/13A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="14" clut="2" normal_image="XBLA/ShapesHD/9/2/14.png" glow_image="XBLA/ShapesHD/9/2/14A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="15" clut="2" normal_image="XBLA/ShapesHD/9/2/15.png" glow_image="XBLA/ShapesHD/9/2/15A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="16" clut="2" normal_image="XBLA/ShapesHD/9/2/16.png" glow_image="XBLA/ShapesHD/9/2/16A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="17" clut="2" normal_image="XBLA/ShapesHD/9/2/17.png" glow_image="XBLA/ShapesHD/9/2/17A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="18" clut="2" normal_image="XBLA/ShapesHD/9/2/18.png" glow_image="XBLA/ShapesHD/9/2/18A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="19" clut="2" normal_image="XBLA/ShapesHD/9/2/19.png" glow_image="XBLA/ShapesHD/9/2/19A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="20" clut="2" normal_image="XBLA/ShapesHD/9/2/20.png" glow_image="XBLA/ShapesHD/9/2/20A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="21" clut="2" normal_image="XBLA/ShapesHD/9/2/21.png" glow_image="XBLA/ShapesHD/9/2/21A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="22" clut="2" normal_image="XBLA/ShapesHD/9/0/22.png" glow_image="XBLA/ShapesHD/9/2/22A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="23" clut="2" normal_image="XBLA/ShapesHD/9/0/23.png" opac_type="1"/>
+<texture coll="9" bitmap="24" clut="2" normal_image="XBLA/ShapesHD/9/2/24.png" glow_image="XBLA/ShapesHD/9/2/24A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="25" clut="2" normal_image="XBLA/ShapesHD/9/2/25.png" glow_image="XBLA/ShapesHD/9/2/25A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="26" clut="2" normal_image="XBLA/ShapesHD/9/2/26.png" glow_image="XBLA/ShapesHD/9/2/26A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="27" clut="2" normal_image="XBLA/ShapesHD/9/2/27.png" glow_image="XBLA/ShapesHD/9/2/27A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="28" clut="2" normal_image="XBLA/ShapesHD/9/2/28.png" glow_image="XBLA/ShapesHD/9/2/28A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="29" clut="2" normal_image="XBLA/ShapesHD/9/2/29.png" glow_image="XBLA/ShapesHD/9/2/29A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="30" clut="2" normal_image="XBLA/ShapesHD/9/2/30.png" glow_image="XBLA/ShapesHD/9/2/30A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="31" clut="2" normal_image="XBLA/ShapesHD/9/2/31.png" glow_image="XBLA/ShapesHD/9/2/31A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="32" clut="2" normal_image="XBLA/ShapesHD/9/2/32.png" glow_image="XBLA/ShapesHD/9/2/32A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="33" clut="2" normal_image="XBLA/ShapesHD/9/2/33.png" glow_image="XBLA/ShapesHD/9/2/33A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="34" clut="2" normal_image="XBLA/ShapesHD/9/2/34.png" glow_image="XBLA/ShapesHD/9/2/34A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="35" clut="2" normal_image="XBLA/ShapesHD/9/2/35.png" glow_image="XBLA/ShapesHD/9/2/35A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="36" clut="2" normal_image="XBLA/ShapesHD/9/2/36.png" opac_type="1"/>
+<texture coll="9" bitmap="37" clut="2" normal_image="XBLA/ShapesHD/9/2/37.png" glow_image="XBLA/ShapesHD/9/2/37A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="38" clut="2" normal_image="XBLA/ShapesHD/9/2/38.png" glow_image="XBLA/ShapesHD/9/2/38A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="39" clut="2" normal_image="XBLA/ShapesHD/9/2/39.png" glow_image="XBLA/ShapesHD/9/2/39A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="40" clut="2" normal_image="XBLA/ShapesHD/9/2/40.png" glow_image="XBLA/ShapesHD/9/2/40A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="41" clut="2" normal_image="XBLA/ShapesHD/9/2/41.png" glow_image="XBLA/ShapesHD/9/2/41A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="42" clut="2" normal_image="XBLA/ShapesHD/9/2/42.png" glow_image="XBLA/ShapesHD/9/2/42A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="43" clut="2" normal_image="XBLA/ShapesHD/9/2/43.png" glow_image="XBLA/ShapesHD/9/2/43A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="44" clut="2" normal_image="XBLA/ShapesHD/9/2/44.png" glow_image="XBLA/ShapesHD/9/2/44A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="45" clut="2" normal_image="XBLA/ShapesHD/9/2/45.png" glow_image="XBLA/ShapesHD/9/2/45A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="46" clut="2" normal_image="XBLA/ShapesHD/9/2/46.png" glow_image="XBLA/ShapesHD/9/2/46A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="47" clut="2" normal_image="XBLA/ShapesHD/9/2/47.png" glow_image="XBLA/ShapesHD/9/2/47A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="48" clut="2" normal_image="XBLA/ShapesHD/9/2/48.png" glow_image="XBLA/ShapesHD/9/2/48A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="49" clut="2" normal_image="XBLA/ShapesHD/9/2/49.png" glow_image="XBLA/ShapesHD/9/2/49A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="50" clut="2" normal_image="XBLA/ShapesHD/9/2/50.png" glow_image="XBLA/ShapesHD/9/2/50A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="53" clut="2" normal_image="XBLA/ShapesHD/9/2/53.png" glow_image="XBLA/ShapesHD/9/2/53A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="54" clut="2" normal_image="XBLA/ShapesHD/9/2/54.png" glow_image="XBLA/ShapesHD/9/2/54A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="55" clut="2" normal_image="XBLA/ShapesHD/9/0/55.png" opac_type="1"/>
+<texture coll="9" bitmap="56" clut="2" normal_image="XBLA/ShapesHD/9/0/56.png" opac_type="1"/>
+<texture coll="9" bitmap="57" clut="2" normal_image="XBLA/ShapesHD/9/0/57.png" opac_type="1"/>
+<texture coll="9" bitmap="58" clut="2" normal_image="XBLA/ShapesHD/9/0/58.png" opac_type="1"/>
+<texture coll="9" bitmap="59" clut="2" normal_image="XBLA/ShapesHD/9/2/59.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="60" clut="2" normal_image="XBLA/ShapesHD/9/2/60.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="61" clut="2" normal_image="XBLA/ShapesHD/9/2/61.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="62" clut="2" normal_image="XBLA/ShapesHD/9/2/62.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="63" clut="2" normal_image="XBLA/ShapesHD/9/2/63.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="64" clut="2" normal_image="XBLA/ShapesHD/9/2/64.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="65" clut="2" normal_image="XBLA/ShapesHD/9/2/65.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="66" clut="2" normal_image="XBLA/ShapesHD/9/2/66.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="67" clut="2" normal_image="XBLA/ShapesHD/9/0/67.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="68" clut="2" normal_image="XBLA/ShapesHD/9/0/68.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="69" clut="2" normal_image="XBLA/ShapesHD/9/0/69.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="70" clut="2" normal_image="XBLA/ShapesHD/9/0/70.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="71" clut="2" normal_image="XBLA/ShapesHD/9/0/71.png" normal_bloom_shift="0.6" opac_type="1"/>
 
-<texture coll="9" bitmap="0" clut="3" normal_image="XBLA/ShapesHD/9/3/0.dds" glow_image="XBLA/ShapesHD/9/3/0A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="1" clut="3" normal_image="XBLA/ShapesHD/9/3/1.dds" glow_image="XBLA/ShapesHD/9/3/1A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="2" clut="3" normal_image="XBLA/ShapesHD/9/3/2.dds" glow_image="XBLA/ShapesHD/9/3/2A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="3" clut="3" normal_image="XBLA/ShapesHD/9/3/3.dds" glow_image="XBLA/ShapesHD/9/3/3A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="4" clut="3" normal_image="XBLA/ShapesHD/9/3/4.dds" glow_image="XBLA/ShapesHD/9/3/4A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="5" clut="3" normal_image="XBLA/ShapesHD/9/3/5.dds" glow_image="XBLA/ShapesHD/9/3/5A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="6" clut="3" normal_image="XBLA/ShapesHD/9/3/6.dds" glow_image="XBLA/ShapesHD/9/3/6A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="7" clut="3" normal_image="XBLA/ShapesHD/9/3/7.dds" glow_image="XBLA/ShapesHD/9/3/7A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="8" clut="3" normal_image="XBLA/ShapesHD/9/3/8.dds" glow_image="XBLA/ShapesHD/9/3/8A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="9" clut="3" normal_image="XBLA/ShapesHD/9/3/9.dds" glow_image="XBLA/ShapesHD/9/3/9A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="10" clut="3" normal_image="XBLA/ShapesHD/9/3/10.dds" glow_image="XBLA/ShapesHD/9/3/10A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="11" clut="3" normal_image="XBLA/ShapesHD/9/3/11.dds" glow_image="XBLA/ShapesHD/9/3/11A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="12" clut="3" normal_image="XBLA/ShapesHD/9/3/12.dds" glow_image="XBLA/ShapesHD/9/3/12A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="13" clut="3" normal_image="XBLA/ShapesHD/9/3/13.dds" glow_image="XBLA/ShapesHD/9/3/13A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="14" clut="3" normal_image="XBLA/ShapesHD/9/3/14.dds" glow_image="XBLA/ShapesHD/9/3/14A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="15" clut="3" normal_image="XBLA/ShapesHD/9/3/15.dds" glow_image="XBLA/ShapesHD/9/3/15A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="16" clut="3" normal_image="XBLA/ShapesHD/9/3/16.dds" glow_image="XBLA/ShapesHD/9/3/16A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="17" clut="3" normal_image="XBLA/ShapesHD/9/3/17.dds" glow_image="XBLA/ShapesHD/9/3/17A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="18" clut="3" normal_image="XBLA/ShapesHD/9/3/18.dds" glow_image="XBLA/ShapesHD/9/3/18A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="19" clut="3" normal_image="XBLA/ShapesHD/9/3/19.dds" glow_image="XBLA/ShapesHD/9/3/19A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="20" clut="3" normal_image="XBLA/ShapesHD/9/3/20.dds" glow_image="XBLA/ShapesHD/9/3/20A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="21" clut="3" normal_image="XBLA/ShapesHD/9/3/21.dds" glow_image="XBLA/ShapesHD/9/3/21A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="22" clut="3" normal_image="XBLA/ShapesHD/9/0/22.dds" glow_image="XBLA/ShapesHD/9/3/22A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="23" clut="3" normal_image="XBLA/ShapesHD/9/0/23.dds" opac_type="1"/>
-<texture coll="9" bitmap="24" clut="3" normal_image="XBLA/ShapesHD/9/3/24.dds" glow_image="XBLA/ShapesHD/9/3/24A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="25" clut="3" normal_image="XBLA/ShapesHD/9/3/25.dds" glow_image="XBLA/ShapesHD/9/3/25A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="26" clut="3" normal_image="XBLA/ShapesHD/9/3/26.dds" glow_image="XBLA/ShapesHD/9/3/26A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="27" clut="3" normal_image="XBLA/ShapesHD/9/3/27.dds" glow_image="XBLA/ShapesHD/9/3/27A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="28" clut="3" normal_image="XBLA/ShapesHD/9/3/28.dds" glow_image="XBLA/ShapesHD/9/3/28A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="29" clut="3" normal_image="XBLA/ShapesHD/9/3/29.dds" glow_image="XBLA/ShapesHD/9/3/29A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="30" clut="3" normal_image="XBLA/ShapesHD/9/3/30.dds" glow_image="XBLA/ShapesHD/9/3/30A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="31" clut="3" normal_image="XBLA/ShapesHD/9/3/31.dds" glow_image="XBLA/ShapesHD/9/3/31A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="32" clut="3" normal_image="XBLA/ShapesHD/9/3/32.dds" glow_image="XBLA/ShapesHD/9/3/32A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="33" clut="3" normal_image="XBLA/ShapesHD/9/3/33.dds" glow_image="XBLA/ShapesHD/9/3/33A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="34" clut="3" normal_image="XBLA/ShapesHD/9/3/34.dds" glow_image="XBLA/ShapesHD/9/3/34A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="35" clut="3" normal_image="XBLA/ShapesHD/9/3/35.dds" glow_image="XBLA/ShapesHD/9/3/35A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="36" clut="3" normal_image="XBLA/ShapesHD/9/3/36.dds" opac_type="1"/>
-<texture coll="9" bitmap="37" clut="3" normal_image="XBLA/ShapesHD/9/3/37.dds" glow_image="XBLA/ShapesHD/9/3/37A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="38" clut="3" normal_image="XBLA/ShapesHD/9/3/38.dds" glow_image="XBLA/ShapesHD/9/3/38A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="39" clut="3" normal_image="XBLA/ShapesHD/9/3/39.dds" glow_image="XBLA/ShapesHD/9/3/39A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="40" clut="3" normal_image="XBLA/ShapesHD/9/3/40.dds" glow_image="XBLA/ShapesHD/9/3/40A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="41" clut="3" normal_image="XBLA/ShapesHD/9/3/41.dds" glow_image="XBLA/ShapesHD/9/3/41A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="42" clut="3" normal_image="XBLA/ShapesHD/9/3/42.dds" glow_image="XBLA/ShapesHD/9/3/42A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="43" clut="3" normal_image="XBLA/ShapesHD/9/3/43.dds" glow_image="XBLA/ShapesHD/9/3/43A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="44" clut="3" normal_image="XBLA/ShapesHD/9/3/44.dds" glow_image="XBLA/ShapesHD/9/3/44A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="45" clut="3" normal_image="XBLA/ShapesHD/9/3/45.dds" glow_image="XBLA/ShapesHD/9/3/45A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="46" clut="3" normal_image="XBLA/ShapesHD/9/3/46.dds" glow_image="XBLA/ShapesHD/9/3/46A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="47" clut="3" normal_image="XBLA/ShapesHD/9/3/47.dds" glow_image="XBLA/ShapesHD/9/3/47A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="48" clut="3" normal_image="XBLA/ShapesHD/9/3/48.dds" glow_image="XBLA/ShapesHD/9/3/48A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="49" clut="3" normal_image="XBLA/ShapesHD/9/3/49.dds" glow_image="XBLA/ShapesHD/9/3/49A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="50" clut="3" normal_image="XBLA/ShapesHD/9/3/50.dds" glow_image="XBLA/ShapesHD/9/3/50A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="53" clut="3" normal_image="XBLA/ShapesHD/9/3/53.dds" glow_image="XBLA/ShapesHD/9/3/53A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="54" clut="3" normal_image="XBLA/ShapesHD/9/3/54.dds" glow_image="XBLA/ShapesHD/9/3/54A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="55" clut="3" normal_image="XBLA/ShapesHD/9/0/55.dds" opac_type="1"/>
-<texture coll="9" bitmap="56" clut="3" normal_image="XBLA/ShapesHD/9/0/56.dds" opac_type="1"/>
-<texture coll="9" bitmap="57" clut="3" normal_image="XBLA/ShapesHD/9/0/57.dds" opac_type="1"/>
-<texture coll="9" bitmap="58" clut="3" normal_image="XBLA/ShapesHD/9/0/58.dds" opac_type="1"/>
-<texture coll="9" bitmap="59" clut="3" normal_image="XBLA/ShapesHD/9/2/59.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="60" clut="3" normal_image="XBLA/ShapesHD/9/2/60.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="61" clut="3" normal_image="XBLA/ShapesHD/9/2/61.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="62" clut="3" normal_image="XBLA/ShapesHD/9/2/62.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="63" clut="3" normal_image="XBLA/ShapesHD/9/2/63.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="64" clut="3" normal_image="XBLA/ShapesHD/9/2/64.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="65" clut="3" normal_image="XBLA/ShapesHD/9/2/65.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="66" clut="3" normal_image="XBLA/ShapesHD/9/2/66.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="67" clut="3" normal_image="XBLA/ShapesHD/9/0/67.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="68" clut="3" normal_image="XBLA/ShapesHD/9/0/68.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="69" clut="3" normal_image="XBLA/ShapesHD/9/0/69.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="70" clut="3" normal_image="XBLA/ShapesHD/9/0/70.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="71" clut="3" normal_image="XBLA/ShapesHD/9/0/71.dds" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="0" clut="3" normal_image="XBLA/ShapesHD/9/3/0.png" glow_image="XBLA/ShapesHD/9/3/0A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="1" clut="3" normal_image="XBLA/ShapesHD/9/3/1.png" glow_image="XBLA/ShapesHD/9/3/1A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="2" clut="3" normal_image="XBLA/ShapesHD/9/3/2.png" glow_image="XBLA/ShapesHD/9/3/2A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="3" clut="3" normal_image="XBLA/ShapesHD/9/3/3.png" glow_image="XBLA/ShapesHD/9/3/3A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="4" clut="3" normal_image="XBLA/ShapesHD/9/3/4.png" glow_image="XBLA/ShapesHD/9/3/4A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="5" clut="3" normal_image="XBLA/ShapesHD/9/3/5.png" glow_image="XBLA/ShapesHD/9/3/5A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="6" clut="3" normal_image="XBLA/ShapesHD/9/3/6.png" glow_image="XBLA/ShapesHD/9/3/6A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="7" clut="3" normal_image="XBLA/ShapesHD/9/3/7.png" glow_image="XBLA/ShapesHD/9/3/7A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="8" clut="3" normal_image="XBLA/ShapesHD/9/3/8.png" glow_image="XBLA/ShapesHD/9/3/8A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="9" clut="3" normal_image="XBLA/ShapesHD/9/3/9.png" glow_image="XBLA/ShapesHD/9/3/9A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="10" clut="3" normal_image="XBLA/ShapesHD/9/3/10.png" glow_image="XBLA/ShapesHD/9/3/10A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="11" clut="3" normal_image="XBLA/ShapesHD/9/3/11.png" glow_image="XBLA/ShapesHD/9/3/11A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="12" clut="3" normal_image="XBLA/ShapesHD/9/3/12.png" glow_image="XBLA/ShapesHD/9/3/12A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="13" clut="3" normal_image="XBLA/ShapesHD/9/3/13.png" glow_image="XBLA/ShapesHD/9/3/13A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="14" clut="3" normal_image="XBLA/ShapesHD/9/3/14.png" glow_image="XBLA/ShapesHD/9/3/14A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="15" clut="3" normal_image="XBLA/ShapesHD/9/3/15.png" glow_image="XBLA/ShapesHD/9/3/15A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="16" clut="3" normal_image="XBLA/ShapesHD/9/3/16.png" glow_image="XBLA/ShapesHD/9/3/16A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="17" clut="3" normal_image="XBLA/ShapesHD/9/3/17.png" glow_image="XBLA/ShapesHD/9/3/17A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="18" clut="3" normal_image="XBLA/ShapesHD/9/3/18.png" glow_image="XBLA/ShapesHD/9/3/18A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="19" clut="3" normal_image="XBLA/ShapesHD/9/3/19.png" glow_image="XBLA/ShapesHD/9/3/19A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="20" clut="3" normal_image="XBLA/ShapesHD/9/3/20.png" glow_image="XBLA/ShapesHD/9/3/20A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="21" clut="3" normal_image="XBLA/ShapesHD/9/3/21.png" glow_image="XBLA/ShapesHD/9/3/21A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="22" clut="3" normal_image="XBLA/ShapesHD/9/0/22.png" glow_image="XBLA/ShapesHD/9/3/22A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="23" clut="3" normal_image="XBLA/ShapesHD/9/0/23.png" opac_type="1"/>
+<texture coll="9" bitmap="24" clut="3" normal_image="XBLA/ShapesHD/9/3/24.png" glow_image="XBLA/ShapesHD/9/3/24A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="25" clut="3" normal_image="XBLA/ShapesHD/9/3/25.png" glow_image="XBLA/ShapesHD/9/3/25A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="26" clut="3" normal_image="XBLA/ShapesHD/9/3/26.png" glow_image="XBLA/ShapesHD/9/3/26A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="27" clut="3" normal_image="XBLA/ShapesHD/9/3/27.png" glow_image="XBLA/ShapesHD/9/3/27A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="28" clut="3" normal_image="XBLA/ShapesHD/9/3/28.png" glow_image="XBLA/ShapesHD/9/3/28A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="29" clut="3" normal_image="XBLA/ShapesHD/9/3/29.png" glow_image="XBLA/ShapesHD/9/3/29A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="30" clut="3" normal_image="XBLA/ShapesHD/9/3/30.png" glow_image="XBLA/ShapesHD/9/3/30A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="31" clut="3" normal_image="XBLA/ShapesHD/9/3/31.png" glow_image="XBLA/ShapesHD/9/3/31A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="32" clut="3" normal_image="XBLA/ShapesHD/9/3/32.png" glow_image="XBLA/ShapesHD/9/3/32A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="33" clut="3" normal_image="XBLA/ShapesHD/9/3/33.png" glow_image="XBLA/ShapesHD/9/3/33A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="34" clut="3" normal_image="XBLA/ShapesHD/9/3/34.png" glow_image="XBLA/ShapesHD/9/3/34A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="35" clut="3" normal_image="XBLA/ShapesHD/9/3/35.png" glow_image="XBLA/ShapesHD/9/3/35A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="36" clut="3" normal_image="XBLA/ShapesHD/9/3/36.png" opac_type="1"/>
+<texture coll="9" bitmap="37" clut="3" normal_image="XBLA/ShapesHD/9/3/37.png" glow_image="XBLA/ShapesHD/9/3/37A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="38" clut="3" normal_image="XBLA/ShapesHD/9/3/38.png" glow_image="XBLA/ShapesHD/9/3/38A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="39" clut="3" normal_image="XBLA/ShapesHD/9/3/39.png" glow_image="XBLA/ShapesHD/9/3/39A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="40" clut="3" normal_image="XBLA/ShapesHD/9/3/40.png" glow_image="XBLA/ShapesHD/9/3/40A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="41" clut="3" normal_image="XBLA/ShapesHD/9/3/41.png" glow_image="XBLA/ShapesHD/9/3/41A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="42" clut="3" normal_image="XBLA/ShapesHD/9/3/42.png" glow_image="XBLA/ShapesHD/9/3/42A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="43" clut="3" normal_image="XBLA/ShapesHD/9/3/43.png" glow_image="XBLA/ShapesHD/9/3/43A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="44" clut="3" normal_image="XBLA/ShapesHD/9/3/44.png" glow_image="XBLA/ShapesHD/9/3/44A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="45" clut="3" normal_image="XBLA/ShapesHD/9/3/45.png" glow_image="XBLA/ShapesHD/9/3/45A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="46" clut="3" normal_image="XBLA/ShapesHD/9/3/46.png" glow_image="XBLA/ShapesHD/9/3/46A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="47" clut="3" normal_image="XBLA/ShapesHD/9/3/47.png" glow_image="XBLA/ShapesHD/9/3/47A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="48" clut="3" normal_image="XBLA/ShapesHD/9/3/48.png" glow_image="XBLA/ShapesHD/9/3/48A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="49" clut="3" normal_image="XBLA/ShapesHD/9/3/49.png" glow_image="XBLA/ShapesHD/9/3/49A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="50" clut="3" normal_image="XBLA/ShapesHD/9/3/50.png" glow_image="XBLA/ShapesHD/9/3/50A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="53" clut="3" normal_image="XBLA/ShapesHD/9/3/53.png" glow_image="XBLA/ShapesHD/9/3/53A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="54" clut="3" normal_image="XBLA/ShapesHD/9/3/54.png" glow_image="XBLA/ShapesHD/9/3/54A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="55" clut="3" normal_image="XBLA/ShapesHD/9/0/55.png" opac_type="1"/>
+<texture coll="9" bitmap="56" clut="3" normal_image="XBLA/ShapesHD/9/0/56.png" opac_type="1"/>
+<texture coll="9" bitmap="57" clut="3" normal_image="XBLA/ShapesHD/9/0/57.png" opac_type="1"/>
+<texture coll="9" bitmap="58" clut="3" normal_image="XBLA/ShapesHD/9/0/58.png" opac_type="1"/>
+<texture coll="9" bitmap="59" clut="3" normal_image="XBLA/ShapesHD/9/2/59.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="60" clut="3" normal_image="XBLA/ShapesHD/9/2/60.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="61" clut="3" normal_image="XBLA/ShapesHD/9/2/61.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="62" clut="3" normal_image="XBLA/ShapesHD/9/2/62.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="63" clut="3" normal_image="XBLA/ShapesHD/9/2/63.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="64" clut="3" normal_image="XBLA/ShapesHD/9/2/64.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="65" clut="3" normal_image="XBLA/ShapesHD/9/2/65.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="66" clut="3" normal_image="XBLA/ShapesHD/9/2/66.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="67" clut="3" normal_image="XBLA/ShapesHD/9/0/67.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="68" clut="3" normal_image="XBLA/ShapesHD/9/0/68.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="69" clut="3" normal_image="XBLA/ShapesHD/9/0/69.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="70" clut="3" normal_image="XBLA/ShapesHD/9/0/70.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="71" clut="3" normal_image="XBLA/ShapesHD/9/0/71.png" normal_bloom_shift="0.6" opac_type="1"/>
 
-<texture coll="9" bitmap="0" clut="4" normal_image="XBLA/ShapesHD/9/4/0.dds" glow_image="XBLA/ShapesHD/9/4/0A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="1" clut="4" normal_image="XBLA/ShapesHD/9/4/1.dds" glow_image="XBLA/ShapesHD/9/4/1A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="2" clut="4" normal_image="XBLA/ShapesHD/9/4/2.dds" glow_image="XBLA/ShapesHD/9/4/2A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="3" clut="4" normal_image="XBLA/ShapesHD/9/4/3.dds" glow_image="XBLA/ShapesHD/9/4/3A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="4" clut="4" normal_image="XBLA/ShapesHD/9/4/4.dds" glow_image="XBLA/ShapesHD/9/4/4A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="5" clut="4" normal_image="XBLA/ShapesHD/9/4/5.dds" glow_image="XBLA/ShapesHD/9/4/5A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="6" clut="4" normal_image="XBLA/ShapesHD/9/4/6.dds" glow_image="XBLA/ShapesHD/9/4/6A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="7" clut="4" normal_image="XBLA/ShapesHD/9/4/7.dds" glow_image="XBLA/ShapesHD/9/4/7A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="8" clut="4" normal_image="XBLA/ShapesHD/9/4/8.dds" glow_image="XBLA/ShapesHD/9/4/8A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="9" clut="4" normal_image="XBLA/ShapesHD/9/4/9.dds" glow_image="XBLA/ShapesHD/9/4/9A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="10" clut="4" normal_image="XBLA/ShapesHD/9/4/10.dds" glow_image="XBLA/ShapesHD/9/4/10A." glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="11" clut="4" normal_image="XBLA/ShapesHD/9/4/11.dds" glow_image="XBLA/ShapesHD/9/4/11A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="12" clut="4" normal_image="XBLA/ShapesHD/9/4/12.dds" glow_image="XBLA/ShapesHD/9/4/12A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="13" clut="4" normal_image="XBLA/ShapesHD/9/4/13.dds" glow_image="XBLA/ShapesHD/9/4/13A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="14" clut="4" normal_image="XBLA/ShapesHD/9/4/14.dds" glow_image="XBLA/ShapesHD/9/4/14A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="15" clut="4" normal_image="XBLA/ShapesHD/9/4/15.dds" glow_image="XBLA/ShapesHD/9/4/15A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="16" clut="4" normal_image="XBLA/ShapesHD/9/4/16.dds" glow_image="XBLA/ShapesHD/9/4/16A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="17" clut="4" normal_image="XBLA/ShapesHD/9/4/17.dds" glow_image="XBLA/ShapesHD/9/4/17A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="18" clut="4" normal_image="XBLA/ShapesHD/9/4/18.dds" glow_image="XBLA/ShapesHD/9/4/18A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="19" clut="4" normal_image="XBLA/ShapesHD/9/4/19.dds" glow_image="XBLA/ShapesHD/9/4/19A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="20" clut="4" normal_image="XBLA/ShapesHD/9/4/20.dds" glow_image="XBLA/ShapesHD/9/4/20A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="21" clut="4" normal_image="XBLA/ShapesHD/9/4/21.dds" glow_image="XBLA/ShapesHD/9/4/21A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="22" clut="4" normal_image="XBLA/ShapesHD/9/4/22.dds" glow_image="XBLA/ShapesHD/9/4/22A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="23" clut="4" normal_image="XBLA/ShapesHD/9/4/23.dds" opac_type="1"/>
-<texture coll="9" bitmap="24" clut="4" normal_image="XBLA/ShapesHD/9/4/24.dds" glow_image="XBLA/ShapesHD/9/4/24A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="25" clut="4" normal_image="XBLA/ShapesHD/9/4/25.dds" glow_image="XBLA/ShapesHD/9/4/25A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="26" clut="4" normal_image="XBLA/ShapesHD/9/4/26.dds" glow_image="XBLA/ShapesHD/9/4/26A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="27" clut="4" normal_image="XBLA/ShapesHD/9/4/27.dds" glow_image="XBLA/ShapesHD/9/4/27A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="28" clut="4" normal_image="XBLA/ShapesHD/9/4/28.dds" glow_image="XBLA/ShapesHD/9/4/28A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="29" clut="4" normal_image="XBLA/ShapesHD/9/4/29.dds" glow_image="XBLA/ShapesHD/9/4/29A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="30" clut="4" normal_image="XBLA/ShapesHD/9/4/30.dds" glow_image="XBLA/ShapesHD/9/4/30A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="31" clut="4" normal_image="XBLA/ShapesHD/9/4/31.dds" glow_image="XBLA/ShapesHD/9/4/31A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="32" clut="4" normal_image="XBLA/ShapesHD/9/4/32.dds" glow_image="XBLA/ShapesHD/9/4/32A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="33" clut="4" normal_image="XBLA/ShapesHD/9/4/33.dds" glow_image="XBLA/ShapesHD/9/4/33A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="34" clut="4" normal_image="XBLA/ShapesHD/9/4/34.dds" glow_image="XBLA/ShapesHD/9/4/34A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="35" clut="4" normal_image="XBLA/ShapesHD/9/4/35.dds" glow_image="XBLA/ShapesHD/9/4/35A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="36" clut="4" normal_image="XBLA/ShapesHD/9/4/36.dds" opac_type="1"/>
-<texture coll="9" bitmap="37" clut="4" normal_image="XBLA/ShapesHD/9/4/37.dds" glow_image="XBLA/ShapesHD/9/4/37A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="38" clut="4" normal_image="XBLA/ShapesHD/9/4/38.dds" glow_image="XBLA/ShapesHD/9/4/38A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="39" clut="4" normal_image="XBLA/ShapesHD/9/4/39.dds" glow_image="XBLA/ShapesHD/9/4/39A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="40" clut="4" normal_image="XBLA/ShapesHD/9/4/40.dds" glow_image="XBLA/ShapesHD/9/4/40A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="41" clut="4" normal_image="XBLA/ShapesHD/9/4/41.dds" glow_image="XBLA/ShapesHD/9/4/41A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="42" clut="4" normal_image="XBLA/ShapesHD/9/4/42.dds" glow_image="XBLA/ShapesHD/9/4/42A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="43" clut="4" normal_image="XBLA/ShapesHD/9/4/43.dds" glow_image="XBLA/ShapesHD/9/4/43A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="44" clut="4" normal_image="XBLA/ShapesHD/9/4/44.dds" glow_image="XBLA/ShapesHD/9/4/44A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="45" clut="4" normal_image="XBLA/ShapesHD/9/4/45.dds" glow_image="XBLA/ShapesHD/9/4/45A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="46" clut="4" normal_image="XBLA/ShapesHD/9/4/46.dds" glow_image="XBLA/ShapesHD/9/4/46A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="47" clut="4" normal_image="XBLA/ShapesHD/9/4/47.dds" glow_image="XBLA/ShapesHD/9/4/47A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="48" clut="4" normal_image="XBLA/ShapesHD/9/4/48.dds" glow_image="XBLA/ShapesHD/9/4/48A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="49" clut="4" normal_image="XBLA/ShapesHD/9/4/49.dds" glow_image="XBLA/ShapesHD/9/4/49A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="50" clut="4" normal_image="XBLA/ShapesHD/9/4/50.dds" glow_image="XBLA/ShapesHD/9/4/50A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="53" clut="4" normal_image="XBLA/ShapesHD/9/4/53.dds" glow_image="XBLA/ShapesHD/9/4/53A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="54" clut="4" normal_image="XBLA/ShapesHD/9/4/54.dds" glow_image="XBLA/ShapesHD/9/4/54A.dds" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
-<texture coll="9" bitmap="55" clut="4" normal_image="XBLA/ShapesHD/9/0/55.dds" opac_type="1"/>
-<texture coll="9" bitmap="56" clut="4" normal_image="XBLA/ShapesHD/9/0/56.dds" opac_type="1"/>
-<texture coll="9" bitmap="57" clut="4" normal_image="XBLA/ShapesHD/9/0/57.dds" opac_type="1"/>
-<texture coll="9" bitmap="58" clut="4" normal_image="XBLA/ShapesHD/9/0/58.dds" opac_type="1"/>
-<texture coll="9" bitmap="59" clut="4" normal_image="XBLA/ShapesHD/9/2/59.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="60" clut="4" normal_image="XBLA/ShapesHD/9/2/60.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="61" clut="4" normal_image="XBLA/ShapesHD/9/2/61.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="62" clut="4" normal_image="XBLA/ShapesHD/9/2/62.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="63" clut="4" normal_image="XBLA/ShapesHD/9/2/63.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="64" clut="4" normal_image="XBLA/ShapesHD/9/2/64.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="65" clut="4" normal_image="XBLA/ShapesHD/9/2/65.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="66" clut="4" normal_image="XBLA/ShapesHD/9/2/66.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="67" clut="4" normal_image="XBLA/ShapesHD/9/0/67.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="68" clut="4" normal_image="XBLA/ShapesHD/9/0/68.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="69" clut="4" normal_image="XBLA/ShapesHD/9/0/69.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="70" clut="4" normal_image="XBLA/ShapesHD/9/0/70.dds" normal_bloom_shift="0.6" opac_type="1"/>
-<texture coll="9" bitmap="71" clut="4" normal_image="XBLA/ShapesHD/9/0/71.dds" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="0" clut="4" normal_image="XBLA/ShapesHD/9/4/0.png" glow_image="XBLA/ShapesHD/9/4/0A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="1" clut="4" normal_image="XBLA/ShapesHD/9/4/1.png" glow_image="XBLA/ShapesHD/9/4/1A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="2" clut="4" normal_image="XBLA/ShapesHD/9/4/2.png" glow_image="XBLA/ShapesHD/9/4/2A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="3" clut="4" normal_image="XBLA/ShapesHD/9/4/3.png" glow_image="XBLA/ShapesHD/9/4/3A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="4" clut="4" normal_image="XBLA/ShapesHD/9/4/4.png" glow_image="XBLA/ShapesHD/9/4/4A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="5" clut="4" normal_image="XBLA/ShapesHD/9/4/5.png" glow_image="XBLA/ShapesHD/9/4/5A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="6" clut="4" normal_image="XBLA/ShapesHD/9/4/6.png" glow_image="XBLA/ShapesHD/9/4/6A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="7" clut="4" normal_image="XBLA/ShapesHD/9/4/7.png" glow_image="XBLA/ShapesHD/9/4/7A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="8" clut="4" normal_image="XBLA/ShapesHD/9/4/8.png" glow_image="XBLA/ShapesHD/9/4/8A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="9" clut="4" normal_image="XBLA/ShapesHD/9/4/9.png" glow_image="XBLA/ShapesHD/9/4/9A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="10" clut="4" normal_image="XBLA/ShapesHD/9/4/10.png" glow_image="XBLA/ShapesHD/9/4/10A." glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="11" clut="4" normal_image="XBLA/ShapesHD/9/4/11.png" glow_image="XBLA/ShapesHD/9/4/11A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="12" clut="4" normal_image="XBLA/ShapesHD/9/4/12.png" glow_image="XBLA/ShapesHD/9/4/12A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="13" clut="4" normal_image="XBLA/ShapesHD/9/4/13.png" glow_image="XBLA/ShapesHD/9/4/13A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="14" clut="4" normal_image="XBLA/ShapesHD/9/4/14.png" glow_image="XBLA/ShapesHD/9/4/14A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="15" clut="4" normal_image="XBLA/ShapesHD/9/4/15.png" glow_image="XBLA/ShapesHD/9/4/15A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="16" clut="4" normal_image="XBLA/ShapesHD/9/4/16.png" glow_image="XBLA/ShapesHD/9/4/16A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="17" clut="4" normal_image="XBLA/ShapesHD/9/4/17.png" glow_image="XBLA/ShapesHD/9/4/17A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="18" clut="4" normal_image="XBLA/ShapesHD/9/4/18.png" glow_image="XBLA/ShapesHD/9/4/18A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="19" clut="4" normal_image="XBLA/ShapesHD/9/4/19.png" glow_image="XBLA/ShapesHD/9/4/19A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="20" clut="4" normal_image="XBLA/ShapesHD/9/4/20.png" glow_image="XBLA/ShapesHD/9/4/20A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="21" clut="4" normal_image="XBLA/ShapesHD/9/4/21.png" glow_image="XBLA/ShapesHD/9/4/21A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="22" clut="4" normal_image="XBLA/ShapesHD/9/4/22.png" glow_image="XBLA/ShapesHD/9/4/22A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="23" clut="4" normal_image="XBLA/ShapesHD/9/4/23.png" opac_type="1"/>
+<texture coll="9" bitmap="24" clut="4" normal_image="XBLA/ShapesHD/9/4/24.png" glow_image="XBLA/ShapesHD/9/4/24A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="25" clut="4" normal_image="XBLA/ShapesHD/9/4/25.png" glow_image="XBLA/ShapesHD/9/4/25A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="26" clut="4" normal_image="XBLA/ShapesHD/9/4/26.png" glow_image="XBLA/ShapesHD/9/4/26A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="27" clut="4" normal_image="XBLA/ShapesHD/9/4/27.png" glow_image="XBLA/ShapesHD/9/4/27A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="28" clut="4" normal_image="XBLA/ShapesHD/9/4/28.png" glow_image="XBLA/ShapesHD/9/4/28A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="29" clut="4" normal_image="XBLA/ShapesHD/9/4/29.png" glow_image="XBLA/ShapesHD/9/4/29A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="30" clut="4" normal_image="XBLA/ShapesHD/9/4/30.png" glow_image="XBLA/ShapesHD/9/4/30A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="31" clut="4" normal_image="XBLA/ShapesHD/9/4/31.png" glow_image="XBLA/ShapesHD/9/4/31A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="32" clut="4" normal_image="XBLA/ShapesHD/9/4/32.png" glow_image="XBLA/ShapesHD/9/4/32A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="33" clut="4" normal_image="XBLA/ShapesHD/9/4/33.png" glow_image="XBLA/ShapesHD/9/4/33A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="34" clut="4" normal_image="XBLA/ShapesHD/9/4/34.png" glow_image="XBLA/ShapesHD/9/4/34A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="35" clut="4" normal_image="XBLA/ShapesHD/9/4/35.png" glow_image="XBLA/ShapesHD/9/4/35A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="36" clut="4" normal_image="XBLA/ShapesHD/9/4/36.png" opac_type="1"/>
+<texture coll="9" bitmap="37" clut="4" normal_image="XBLA/ShapesHD/9/4/37.png" glow_image="XBLA/ShapesHD/9/4/37A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="38" clut="4" normal_image="XBLA/ShapesHD/9/4/38.png" glow_image="XBLA/ShapesHD/9/4/38A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="39" clut="4" normal_image="XBLA/ShapesHD/9/4/39.png" glow_image="XBLA/ShapesHD/9/4/39A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="40" clut="4" normal_image="XBLA/ShapesHD/9/4/40.png" glow_image="XBLA/ShapesHD/9/4/40A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="41" clut="4" normal_image="XBLA/ShapesHD/9/4/41.png" glow_image="XBLA/ShapesHD/9/4/41A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="42" clut="4" normal_image="XBLA/ShapesHD/9/4/42.png" glow_image="XBLA/ShapesHD/9/4/42A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="43" clut="4" normal_image="XBLA/ShapesHD/9/4/43.png" glow_image="XBLA/ShapesHD/9/4/43A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="44" clut="4" normal_image="XBLA/ShapesHD/9/4/44.png" glow_image="XBLA/ShapesHD/9/4/44A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="45" clut="4" normal_image="XBLA/ShapesHD/9/4/45.png" glow_image="XBLA/ShapesHD/9/4/45A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="46" clut="4" normal_image="XBLA/ShapesHD/9/4/46.png" glow_image="XBLA/ShapesHD/9/4/46A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="47" clut="4" normal_image="XBLA/ShapesHD/9/4/47.png" glow_image="XBLA/ShapesHD/9/4/47A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="48" clut="4" normal_image="XBLA/ShapesHD/9/4/48.png" glow_image="XBLA/ShapesHD/9/4/48A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="49" clut="4" normal_image="XBLA/ShapesHD/9/4/49.png" glow_image="XBLA/ShapesHD/9/4/49A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="50" clut="4" normal_image="XBLA/ShapesHD/9/4/50.png" glow_image="XBLA/ShapesHD/9/4/50A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="53" clut="4" normal_image="XBLA/ShapesHD/9/4/53.png" glow_image="XBLA/ShapesHD/9/4/53A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="54" clut="4" normal_image="XBLA/ShapesHD/9/4/54.png" glow_image="XBLA/ShapesHD/9/4/54A.png" glow_bloom_shift="0.8" glow_bloom_scale="0.2" opac_type="1"/>
+<texture coll="9" bitmap="55" clut="4" normal_image="XBLA/ShapesHD/9/0/55.png" opac_type="1"/>
+<texture coll="9" bitmap="56" clut="4" normal_image="XBLA/ShapesHD/9/0/56.png" opac_type="1"/>
+<texture coll="9" bitmap="57" clut="4" normal_image="XBLA/ShapesHD/9/0/57.png" opac_type="1"/>
+<texture coll="9" bitmap="58" clut="4" normal_image="XBLA/ShapesHD/9/0/58.png" opac_type="1"/>
+<texture coll="9" bitmap="59" clut="4" normal_image="XBLA/ShapesHD/9/2/59.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="60" clut="4" normal_image="XBLA/ShapesHD/9/2/60.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="61" clut="4" normal_image="XBLA/ShapesHD/9/2/61.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="62" clut="4" normal_image="XBLA/ShapesHD/9/2/62.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="63" clut="4" normal_image="XBLA/ShapesHD/9/2/63.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="64" clut="4" normal_image="XBLA/ShapesHD/9/2/64.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="65" clut="4" normal_image="XBLA/ShapesHD/9/2/65.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="66" clut="4" normal_image="XBLA/ShapesHD/9/2/66.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="67" clut="4" normal_image="XBLA/ShapesHD/9/0/67.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="68" clut="4" normal_image="XBLA/ShapesHD/9/0/68.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="69" clut="4" normal_image="XBLA/ShapesHD/9/0/69.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="70" clut="4" normal_image="XBLA/ShapesHD/9/0/70.png" normal_bloom_shift="0.6" opac_type="1"/>
+<texture coll="9" bitmap="71" clut="4" normal_image="XBLA/ShapesHD/9/0/71.png" normal_bloom_shift="0.6" opac_type="1"/>
 </opengl>
 </marathon>
