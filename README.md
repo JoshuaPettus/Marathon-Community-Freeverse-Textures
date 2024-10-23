@@ -10,14 +10,15 @@ The release packages are:
 
 # Generate glow textures
 For ease of editing, glowmaps are separated from the texture, but the scripts call upon a combined glowimage derived from the glowmap and main image.
-This can be done in Treellama's Aorta tool
+These can be made using Treellama's Aorta tool.
+
 In Aorta's batch mode:
-    1. Point to the source folder to the XBLA folder 
-    2. Check "Traverse (and recreate) subfolders"
-    3. Make sure to check "Attempt to find mask" and search for ^_glow$
-    4. Set the output to an XBLA folder you created and will use for production
-    5. Set the output to png
-    6. Start the batch convert
+ 1. Point the source folder to the XBLA folder
+ 2. Check "Traverse (and recreate) subfolders"
+ 3. Make sure to check "Attempt to find mask" and search for ^_glow$
+ 4. Set the output to an XBLA folder you created and will use for production
+ 5. Set the output to png
+ 6. Start the batch convert
 
 # Contributors
 Special thanks to the following people for their contributions:
