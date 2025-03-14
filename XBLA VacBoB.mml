@@ -13,7 +13,7 @@
 <texture coll="13" clut="-1" bitmap="9" opac_type="1" normal_image="XBLA/ShapesHD/13/0/9.png"/>
 <texture coll="13" clut="-1" bitmap="10" opac_type="1" normal_image="XBLA/ShapesHD/13/0/10.png" glow_image="XBLA/ShapesHD/13/0/10A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="-1" bitmap="11" opac_type="1" normal_image="XBLA/ShapesHD/13/0/11.png" glow_image="XBLA/ShapesHD/13/0/11A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
-<texture coll="13" clut="-1" bitmap="12" opac_type="1" normal_image="XBLA/ShapesHD/13/0.5.png" glow_image="XBLA/ShapesHD/13/0.5A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
+<texture coll="13" clut="-1" bitmap="12" opac_type="1" normal_image="XBLA/ShapesHD/13/0/12.png" glow_image="XBLA/ShapesHD/13/0/12A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="-1" bitmap="13" opac_type="1" normal_image="XBLA/ShapesHD/13/0/13.png" glow_image="XBLA/ShapesHD/13/0/13A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="-1" bitmap="14" opac_type="1" normal_image="XBLA/ShapesHD/13/0/14.png" glow_image="XBLA/ShapesHD/13/0/14A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="-1" bitmap="15" opac_type="1" normal_image="XBLA/ShapesHD/13/0/15.png"/>
@@ -232,7 +232,7 @@
 <texture coll="13" clut="3" bitmap="9" opac_type="1" normal_image="XBLA/ShapesHD/13/0/9.png"/>
 <texture coll="13" clut="3" bitmap="10" opac_type="1" normal_image="XBLA/ShapesHD/13/0/10.png" glow_image="XBLA/ShapesHD/13/0/10A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="3" bitmap="11" opac_type="1" normal_image="XBLA/ShapesHD/13/0/11.png" glow_image="XBLA/ShapesHD/13/0/11A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
-<texture coll="13" clut="3" bitmap="12" opac_type="1" normal_image="XBLA/ShapesHD/13/0.5.png" glow_image="XBLA/ShapesHD/13/0.5A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
+<texture coll="13" clut="3" bitmap="12" opac_type="1" normal_image="XBLA/ShapesHD/13/0/12.png" glow_image="XBLA/ShapesHD/13/0/12A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="3" bitmap="13" opac_type="1" normal_image="XBLA/ShapesHD/13/0/13.png" glow_image="XBLA/ShapesHD/13/0/13A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="3" bitmap="14" opac_type="1" normal_image="XBLA/ShapesHD/13/0/14.png" glow_image="XBLA/ShapesHD/13/0/14A.png" glow_bloom_shift="0.5" glow_bloom_scale="0.5"/>
 <texture coll="13" clut="3" bitmap="15" opac_type="1" normal_image="XBLA/ShapesHD/13/0/15.png"/>
