@@ -4,9 +4,10 @@ The release packages are:
 
  - CFP Monsters - https://simplici7y.com/items/community-freeverse-plugin-monsters/
  - CFP Scenery - http://simplici7y.com/items/community-freeverse-plugin-scenery
- - CFP Weapons Inf - http://simplici7y.com/items/community-freeverse-plugin-weapons
+ - CFP Weapons MInf - http://simplici7y.com/items/community-freeverse-plugin-weapons
  - CFP Weapons M2 - http://simplici7y.com/items/community-freeverse-plugin-weapons-m2
  - CFP Walls M2 - http://simplici7y.com/items/community-freeverse-plugin-walls-m2
+ - CFP Walls MInf - https://simplici7y.com/items/communityfreeverse-walls-minf/
 
 # Generate glow textures
 For ease of editing, glowmaps are separated from the texture, but the scripts call upon a combined glowimage derived from the glowmap and main image.
@@ -27,6 +28,9 @@ Special thanks to the following people for their contributions:
  - Treellama - Providing higher quality Freeverse sprites sent directly from Freeverse themselves, including a few color tables that were not part of the official m2 plugin.
  - Thedoctor45 - The first to port over the Freeverse sprites over to Alephone, first implement the HD sprites, made the purple trooper sprites, and made many bloom effects.
  - General Tacticus - Created all new VacBob, Critters, and Jjaro scenery.
+ - Goron Svensson - Creator of the Marathon Infinity Wall Textures
+ - TheMan - Contributor for the MInf Wall Textures
+ - kaosof - Contributor for the MInf Wall Textures
  - Spurious Interrupt - Creator of SMG sprites used by the player sprites.
  - Tfear7 - Original creator of grey monster sprites, while these were replaced with the new hd sprites, I'm still grateful for his assistance.
  
